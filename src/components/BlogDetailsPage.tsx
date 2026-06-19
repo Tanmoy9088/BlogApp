@@ -13,12 +13,15 @@ const BlogDetailsPage = () => {
   useEffect(() => {
     console.log("ID from URL:", id);
     const fetchData = async () => {
+      setIsLoading(true);
       try {
         const res = await axios.get(`https://jsonfakery.com/blogs`);
         console.log("response", res);
         setBlogData(res.data);
       } catch (error: any) {
         setIsError(error.message);
+      } finally {
+        setIsLoading(false);
       }
     };
 
@@ -29,6 +32,7 @@ const BlogDetailsPage = () => {
   console.log("blog", blog);
 
   if (isLoading) return <p>Loading...</p>;
+  if (isError) return <p>Error</p>;
   if (!blogData) return <h2>Blog not found!</h2>;
 
   return (

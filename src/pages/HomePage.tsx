@@ -64,6 +64,7 @@ const HomePage = () => {
             Next
           </button>
         </div>
+         {error && <p className="text-4xl pt-24 text-center">Error</p>}
         <div>
           {loading && <p className="text-4xl pt-24 text-center">Loading....</p>}
         </div>

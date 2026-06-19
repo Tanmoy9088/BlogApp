@@ -1,7 +1,7 @@
 import { createBrowserRouter, Navigate } from "react-router-dom";
 import { lazy} from "react";
 import Wrapper from "../layout/Wrapper";
-import LoginPage from "../components/LoginPage";
+// import LoginPage from "../components/LoginPage";
 import ErrorBoundary from "../components/ErrorBoundary";
 import withSuspense from "../utils/withSuspense";
 import PageNotFound from "../pages/PageNotFound";
@@ -60,11 +60,11 @@ export const router = createBrowserRouter([
       },
     ],
   },
-  {
-    path: "/login",
-    element: <LoginPage />,
-    errorElement: <ErrorBoundary />,
-  },
+  // {
+  //   path: "/login",
+  //   element: <LoginPage />,
+  //   errorElement: <ErrorBoundary />,
+  // },
   {
     path: "*",
     element: <PageNotFound />,
