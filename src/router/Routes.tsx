@@ -1,4 +1,4 @@
-import { createBrowserRouter, Navigate } from "react-router-dom";
+import { createBrowserRouter } from "react-router-dom";
 import { lazy} from "react";
 import Wrapper from "../layout/Wrapper";
 // import LoginPage from "../components/LoginPage";
@@ -19,10 +19,7 @@ export const router = createBrowserRouter([
     path: "/",
     element: <Wrapper />,
     children: [
-      {
-        index: true, // redirect "/" to "/home"
-        element: <Navigate to="home" replace />,
-      },
+     
       {
         path: "home",
         element: withSuspense(HomePage), //lazy loaded
