@@ -1,4 +1,4 @@
-import  { useState, useEffect } from "react";
+import { useState, useEffect } from "react";
 import BlogCard from "../components/BlogCard";
 // import blogData from "../Data/BlogData.json";
 import type { Post } from "../types/BlogData.type";
@@ -42,6 +42,16 @@ const HomePage = () => {
   const totalPost = postData.length;
   console.log(totalPost);
   console.log(totalPages);
+
+  if (loading)
+    return (
+      <div className="pt-24 text-center">
+        <p className="w-10 h-10 border-4 border-indigo-500 border-t-transparent rounded-full animate-spin mx-auto"></p>
+        <p>Loading...</p>
+      </div>
+    );
+
+  if (error) return <p className="text-4xl pt-24 text-center">Error</p>;
   return (
     <>
       <div>
@@ -63,10 +73,6 @@ const HomePage = () => {
           >
             Next
           </button>
-        </div>
-         {error && <p className="text-4xl pt-24 text-center">Error</p>}
-        <div>
-          {loading && <p className="text-4xl pt-24 text-center">Loading....</p>}
         </div>
         <div>
           {postData && !loading && (

@@ -29,7 +29,7 @@ const JokePage = () => {
       setJoke(jokeData);
 
       //!Success
-    } catch (err:any) {
+    } catch (err: any) {
       setError(err.message);
 
       //Always execute
@@ -53,14 +53,24 @@ const JokePage = () => {
     }
     console.log(isClicked);
   };
+  if (loading)
+    return (
+      <div className="pt-24 text-center">
+        <p className="w-10 h-10 border-4 border-indigo-500 border-t-transparent rounded-full animate-spin mx-auto"></p>
+        <p>Loading...</p>
+      </div>
+    );
+
+  if (error)
+    return (
+      <div className="pt-24 text-center text-4xl text-red-500">
+        <p>Error, Something went wrong</p>
+      </div>
+    );
+
   return (
     <div className="flex justify-center w-screen">
-      {/*Loading*/}
-      {loading && <p>Loading... </p>}
-
-      {/*Error*/}
-      {error && <p>Error:{error}</p>}
-
+      
       {/*Show Joke here */}
       {joke && !loading && (
         <div className="relative w-[600px] h-[600px] mt-10">
