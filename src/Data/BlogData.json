@@ -1,0 +1,3468 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Effective study techniques for students",
+      "slug": "effective-study-techniques-for-students",
+      "category": "Education",
+      "excerpt": "Exploring effective study techniques for students and why it matters more than ever.",
+      "content": "In this post, we take a closer look at effective study techniques for students. Whether you're just starting out or looking to refine your approach, there's something here for you.\n\nWe'll walk through the key ideas, common mistakes to avoid, and practical steps you can take today. By the end, you should have a clearer picture of how to move forward.\n\nRemember, consistency matters more than perfection. Start small, stay curious, and build from there.",
+      "image": "https://picsum.photos/seed/effective-study-techniques-for-students/800/400",
+      "author": {
+        "id": 1,
+        "name": "Maya Chen",
+        "avatar": "https://i.pravatar.cc/100?img=1"
+      },
+      "date": "2026-06-15",
+      "readTime": "5 min read",
+      "tags": ["beginner", "business", "tips"],
+      "likes": 140,
+      "comments": [
+        {
+          "id": 1,
+          "user": "Dev",
+          "text": "Can you do a follow-up on this topic?",
+          "date": "2026-06-15"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Simple ways to reduce stress daily",
+      "slug": "simple-ways-to-reduce-stress-daily",
+      "category": "Lifestyle",
+      "excerpt": "Simple, actionable advice on simple ways to reduce stress daily for everyday life.",
+      "content": "In this post, we take a closer look at simple ways to reduce stress daily. Whether you're just starting out or looking to refine your approach, there's something here for you.\n\nWe'll walk through the key ideas, common mistakes to avoid, and practical steps you can take today. By the end, you should have a clearer picture of how to move forward.\n\nRemember, consistency matters more than perfection. Start small, stay curious, and build from there.",
+      "image": "https://picsum.photos/seed/simple-ways-to-reduce-stress-daily/800/400",
+      "author": {
+        "id": 2,
+        "name": "Rohan Das",
+        "avatar": "https://i.pravatar.cc/100?img=2"
+      },
+      "date": "2026-06-14",
+      "readTime": "5 min read",
+      "tags": ["tutorial", "health", "food"],
+      "likes": 117,
+      "comments": [
+        {
+          "id": 1,
+          "user": "Sam",
+          "text": "Exactly what I needed right now.",
+          "date": "2026-06-14"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Sleep hygiene tips for better rest",
+      "slug": "sleep-hygiene-tips-for-better-rest",
+      "category": "Health",
+      "excerpt": "A practical look at sleep hygiene tips for better rest, with tips you can apply right away.",
+      "content": "In this post, we take a closer look at sleep hygiene tips for better rest. Whether you're just starting out or looking to refine your approach, there's something here for you.\n\nWe'll walk through the key ideas, common mistakes to avoid, and practical steps you can take today. By the end, you should have a clearer picture of how to move forward.\n\nRemember, consistency matters more than perfection. Start small, stay curious, and build from there.",
+      "image": "https://picsum.photos/seed/sleep-hygiene-tips-for-better-rest/800/400",
+      "author": {
+        "id": 3,
+        "name": "Priya Nair",
+        "avatar": "https://i.pravatar.cc/100?img=3"
+      },
+      "date": "2026-06-13",
+      "readTime": "8 min read",
+      "tags": ["design", "tips", "beginner"],
+      "likes": 221,
+      "comments": [
+        {
+          "id": 1,
+          "user": "Omar",
+          "text": "Great read, learned something new today.",
+          "date": "2026-06-13"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "How to create a brand identity",
+      "slug": "how-to-create-a-brand-identity",
+      "category": "Design",
+      "excerpt": "A beginner-friendly guide to how to create a brand identity that covers the essentials.",
+      "content": "In this post, we take a closer look at how to create a brand identity. Whether you're just starting out or looking to refine your approach, there's something here for you.\n\nWe'll walk through the key ideas, common mistakes to avoid, and practical steps you can take today. By the end, you should have a clearer picture of how to move forward.\n\nRemember, consistency matters more than perfection. Start small, stay curious, and build from there.",
+      "image": "https://picsum.photos/seed/how-to-create-a-brand-identity/800/400",
+      "author": {
+        "id": 4,
+        "name": "Arjun Mehta",
+        "avatar": "https://i.pravatar.cc/100?img=4"
+      },
+      "date": "2026-06-12",
+      "readTime": "2 min read",
+      "tags": ["travel", "health", "tips"],
+      "likes": 237,
+      "comments": [
+        {
+          "id": 1,
+          "user": "Jordan",
+          "text": "Well written and easy to follow.",
+          "date": "2026-06-12"
+        },
+        {
+          "id": 2,
+          "user": "Nina",
+          "text": "Do you have any references for this?",
+          "date": "2026-06-11"
+        },
+        {
+          "id": 3,
+          "user": "Riya",
+          "text": "This was really helpful, thanks for sharing!",
+          "date": "2026-06-10"
+        },
+        {
+          "id": 4,
+          "user": "Jordan",
+          "text": "Exactly what I needed right now.",
+          "date": "2026-06-09"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Regional curries from across India",
+      "slug": "regional-curries-from-across-india",
+      "category": "Food",
+      "excerpt": "A beginner-friendly guide to regional curries from across india that covers the essentials.",
+      "content": "In this post, we take a closer look at regional curries from across india. Whether you're just starting out or looking to refine your approach, there's something here for you.\n\nWe'll walk through the key ideas, common mistakes to avoid, and practical steps you can take today. By the end, you should have a clearer picture of how to move forward.\n\nRemember, consistency matters more than perfection. Start small, stay curious, and build from there.",
+      "image": "https://picsum.photos/seed/regional-curries-from-across-india/800/400",
+      "author": {
+        "id": 5,
+        "name": "Sara Khan",
+        "avatar": "https://i.pravatar.cc/100?img=5"
+      },
+      "date": "2026-06-11",
+      "readTime": "6 min read",
+      "tags": ["tips", "productivity", "design"],
+      "likes": 157,
+      "comments": []
+    },
+    {
+      "id": 6,
+      "title": "Vegan dinner ideas for beginners",
+      "slug": "vegan-dinner-ideas-for-beginners",
+      "category": "Food",
+      "excerpt": "A beginner-friendly guide to vegan dinner ideas for beginners that covers the essentials.",
+      "content": "In this post, we take a closer look at vegan dinner ideas for beginners. Whether you're just starting out or looking to refine your approach, there's something here for you.\n\nWe'll walk through the key ideas, common mistakes to avoid, and practical steps you can take today. By the end, you should have a clearer picture of how to move forward.\n\nRemember, consistency matters more than perfection. Start small, stay curious, and build from there.",
+      "image": "https://picsum.photos/seed/vegan-dinner-ideas-for-beginners/800/400",
+      "author": {
+        "id": 1,
+        "name": "Maya Chen",
+        "avatar": "https://i.pravatar.cc/100?img=1"
+      },
+      "date": "2026-06-10",
+      "readTime": "3 min read",
+      "tags": ["react", "guide", "tutorial"],
+      "likes": 45,
+      "comments": [
+        {
+          "id": 1,
+          "user": "Sam",
+          "text": "I disagree with point 3, but overall good post.",
+          "date": "2026-06-10"
+        },
+        {
+          "id": 2,
+          "user": "Dev",
+          "text": "I disagree with point 3, but overall good post.",
+          "date": "2026-06-09"
+        },
+        {
+          "id": 3,
+          "user": "Alex",
+          "text": "Bookmarking this for later.",
+          "date": "2026-06-08"
+        },
+        {
+          "id": 4,
+          "user": "Omar",
+          "text": "This was really helpful, thanks for sharing!",
+          "date": "2026-06-07"
+        },
+        {
+          "id": 5,
+          "user": "Jordan",
+          "text": "Bookmarking this for later.",
+          "date": "2026-06-06"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Why minimal design wins",
+      "slug": "why-minimal-design-wins",
+      "category": "Design",
+      "excerpt": "Exploring why minimal design wins and why it matters more than ever.",
+      "content": "In this post, we take a closer look at why minimal design wins. Whether you're just starting out or looking to refine your approach, there's something here for you.\n\nWe'll walk through the key ideas, common mistakes to avoid, and practical steps you can take today. By the end, you should have a clearer picture of how to move forward.\n\nRemember, consistency matters more than perfection. Start small, stay curious, and build from there.",
+      "image": "https://picsum.photos/seed/why-minimal-design-wins/800/400",
+      "author": {
+        "id": 2,
+        "name": "Rohan Das",
+        "avatar": "https://i.pravatar.cc/100?img=2"
+      },
+      "date": "2026-06-09",
+      "readTime": "8 min read",
+      "tags": ["design", "productivity", "tips"],
+      "likes": 70,
+      "comments": []
+    },
+    {
+      "id": 8,
+      "title": "Building a sustainable workout routine",
+      "slug": "building-a-sustainable-workout-routine",
+      "category": "Health",
+      "excerpt": "Simple, actionable advice on building a sustainable workout routine for everyday life.",
+      "content": "In this post, we take a closer look at building a sustainable workout routine. Whether you're just starting out or looking to refine your approach, there's something here for you.\n\nWe'll walk through the key ideas, common mistakes to avoid, and practical steps you can take today. By the end, you should have a clearer picture of how to move forward.\n\nRemember, consistency matters more than perfection. Start small, stay curious, and build from there.",
+      "image": "https://picsum.photos/seed/building-a-sustainable-workout-routine/800/400",
+      "author": {
+        "id": 3,
+        "name": "Priya Nair",
+        "avatar": "https://i.pravatar.cc/100?img=3"
+      },
+      "date": "2026-06-08",
+      "readTime": "5 min read",
+      "tags": ["design", "guide", "beginner"],
+      "likes": 37,
+      "comments": [
+        {
+          "id": 1,
+          "user": "Omar",
+          "text": "I disagree with point 3, but overall good post.",
+          "date": "2026-06-08"
+        },
+        {
+          "id": 2,
+          "user": "Riya",
+          "text": "Well written and easy to follow.",
+          "date": "2026-06-07"
+        },
+        {
+          "id": 3,
+          "user": "Sam",
+          "text": "Can you do a follow-up on this topic?",
+          "date": "2026-06-06"
+        },
+        {
+          "id": 4,
+          "user": "Riya",
+          "text": "Well written and easy to follow.",
+          "date": "2026-06-05"
+        },
+        {
+          "id": 5,
+          "user": "Dev",
+          "text": "Do you have any references for this?",
+          "date": "2026-06-04"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Best street food cities in Asia",
+      "slug": "best-street-food-cities-in-asia",
+      "category": "Travel",
+      "excerpt": "A practical look at best street food cities in asia, with tips you can apply right away.",
+      "content": "In this post, we take a closer look at best street food cities in asia. Whether you're just starting out or looking to refine your approach, there's something here for you.\n\nWe'll walk through the key ideas, common mistakes to avoid, and practical steps you can take today. By the end, you should have a clearer picture of how to move forward.\n\nRemember, consistency matters more than perfection. Start small, stay curious, and build from there.",
+      "image": "https://picsum.photos/seed/best-street-food-cities-in-asia/800/400",
+      "author": {
+        "id": 4,
+        "name": "Arjun Mehta",
+        "avatar": "https://i.pravatar.cc/100?img=4"
+      },
+      "date": "2026-06-07",
+      "readTime": "7 min read",
+      "tags": ["beginner", "react", "guide"],
+      "likes": 39,
+      "comments": [
+        {
+          "id": 1,
+          "user": "Alex",
+          "text": "Can you do a follow-up on this topic?",
+          "date": "2026-06-07"
+        },
+        {
+          "id": 2,
+          "user": "Sam",
+          "text": "This was really helpful, thanks for sharing!",
+          "date": "2026-06-06"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Benefits of daily stretching",
+      "slug": "benefits-of-daily-stretching",
+      "category": "Health",
+      "excerpt": "A beginner-friendly guide to benefits of daily stretching that covers the essentials.",
+      "content": "In this post, we take a closer look at benefits of daily stretching. Whether you're just starting out or looking to refine your approach, there's something here for you.\n\nWe'll walk through the key ideas, common mistakes to avoid, and practical steps you can take today. By the end, you should have a clearer picture of how to move forward.\n\nRemember, consistency matters more than perfection. Start small, stay curious, and build from there.",
+      "image": "https://picsum.photos/seed/benefits-of-daily-stretching/800/400",
+      "author": {
+        "id": 5,
+        "name": "Sara Khan",
+        "avatar": "https://i.pravatar.cc/100?img=5"
+      },
+      "date": "2026-06-06",
+      "readTime": "2 min read",
+      "tags": ["productivity", "guide", "travel"],
+      "likes": 253,
+      "comments": []
+    },
+    {
+      "id": 11,
+      "title": "Strength training for beginners",
+      "slug": "strength-training-for-beginners",
+      "category": "Health",
+      "excerpt": "Everything you need to know about strength training for beginners in one place.",
+      "content": "In this post, we take a closer look at strength training for beginners. Whether you're just starting out or looking to refine your approach, there's something here for you.\n\nWe'll walk through the key ideas, common mistakes to avoid, and practical steps you can take today. By the end, you should have a clearer picture of how to move forward.\n\nRemember, consistency matters more than perfection. Start small, stay curious, and build from there.",
+      "image": "https://picsum.photos/seed/strength-training-for-beginners/800/400",
+      "author": {
+        "id": 1,
+        "name": "Maya Chen",
+        "avatar": "https://i.pravatar.cc/100?img=1"
+      },
+      "date": "2026-06-05",
+      "readTime": "8 min read",
+      "tags": ["business", "health", "guide"],
+      "likes": 53,
+      "comments": [
+        {
+          "id": 1,
+          "user": "Taylor",
+          "text": "Do you have any references for this?",
+          "date": "2026-06-05"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Mobile-first design principles",
+      "slug": "mobile-first-design-principles",
+      "category": "Design",
+      "excerpt": "Exploring mobile-first design principles and why it matters more than ever.",
+      "content": "In this post, we take a closer look at mobile-first design principles. Whether you're just starting out or looking to refine your approach, there's something here for you.\n\nWe'll walk through the key ideas, common mistakes to avoid, and practical steps you can take today. By the end, you should have a clearer picture of how to move forward.\n\nRemember, consistency matters more than perfection. Start small, stay curious, and build from there.",
+      "image": "https://picsum.photos/seed/mobile-first-design-principles/800/400",
+      "author": {
+        "id": 2,
+        "name": "Rohan Das",
+        "avatar": "https://i.pravatar.cc/100?img=2"
+      },
+      "date": "2026-06-04",
+      "readTime": "4 min read",
+      "tags": ["health", "lifestyle", "business"],
+      "likes": 32,
+      "comments": []
+    },
+    {
+      "id": 13,
+      "title": "Work-life balance tips for remote workers",
+      "slug": "work-life-balance-tips-for-remote-workers",
+      "category": "Lifestyle",
+      "excerpt": "Exploring work-life balance tips for remote workers and why it matters more than ever.",
+      "content": "In this post, we take a closer look at work-life balance tips for remote workers. Whether you're just starting out or looking to refine your approach, there's something here for you.\n\nWe'll walk through the key ideas, common mistakes to avoid, and practical steps you can take today. By the end, you should have a clearer picture of how to move forward.\n\nRemember, consistency matters more than perfection. Start small, stay curious, and build from there.",
+      "image": "https://picsum.photos/seed/work-life-balance-tips-for-remote-workers/800/400",
+      "author": {
+        "id": 3,
+        "name": "Priya Nair",
+        "avatar": "https://i.pravatar.cc/100?img=3"
+      },
+      "date": "2026-06-03",
+      "readTime": "3 min read",
+      "tags": ["travel", "business", "guide"],
+      "likes": 43,
+      "comments": [
+        {
+          "id": 1,
+          "user": "Jordan",
+          "text": "This was really helpful, thanks for sharing!",
+          "date": "2026-06-03"
+        },
+        {
+          "id": 2,
+          "user": "Nina",
+          "text": "Bookmarking this for later.",
+          "date": "2026-06-02"
+        },
+        {
+          "id": 3,
+          "user": "Jordan",
+          "text": "Can you do a follow-up on this topic?",
+          "date": "2026-06-01"
+        },
+        {
+          "id": 4,
+          "user": "Sam",
+          "text": "Can you do a follow-up on this topic?",
+          "date": "2026-06-01"
+        },
+        {
+          "id": 5,
+          "user": "Omar",
+          "text": "I disagree with point 3, but overall good post.",
+          "date": "2026-06-01"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "title": "Understanding cash flow management",
+      "slug": "understanding-cash-flow-management",
+      "category": "Business",
+      "excerpt": "Exploring understanding cash flow management and why it matters more than ever.",
+      "content": "In this post, we take a closer look at understanding cash flow management. Whether you're just starting out or looking to refine your approach, there's something here for you.\n\nWe'll walk through the key ideas, common mistakes to avoid, and practical steps you can take today. By the end, you should have a clearer picture of how to move forward.\n\nRemember, consistency matters more than perfection. Start small, stay curious, and build from there.",
+      "image": "https://picsum.photos/seed/understanding-cash-flow-management/800/400",
+      "author": {
+        "id": 4,
+        "name": "Arjun Mehta",
+        "avatar": "https://i.pravatar.cc/100?img=4"
+      },
+      "date": "2026-06-02",
+      "readTime": "5 min read",
+      "tags": ["business", "guide", "health"],
+      "likes": 35,
+      "comments": [
+        {
+          "id": 1,
+          "user": "Jordan",
+          "text": "This was really helpful, thanks for sharing!",
+          "date": "2026-06-02"
+        },
+        {
+          "id": 2,
+          "user": "Alex",
+          "text": "Great read, learned something new today.",
+          "date": "2026-06-01"
+        },
+        {
+          "id": 3,
+          "user": "Sam",
+          "text": "I disagree with point 3, but overall good post.",
+          "date": "2026-06-01"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "title": "Decluttering your home in a weekend",
+      "slug": "decluttering-your-home-in-a-weekend",
+      "category": "Lifestyle",
+      "excerpt": "Exploring decluttering your home in a weekend and why it matters more than ever.",
+      "content": "In this post, we take a closer look at decluttering your home in a weekend. Whether you're just starting out or looking to refine your approach, there's something here for you.\n\nWe'll walk through the key ideas, common mistakes to avoid, and practical steps you can take today. By the end, you should have a clearer picture of how to move forward.\n\nRemember, consistency matters more than perfection. Start small, stay curious, and build from there.",
+      "image": "https://picsum.photos/seed/decluttering-your-home-in-a-weekend/800/400",
+      "author": {
+        "id": 5,
+        "name": "Sara Khan",
+        "avatar": "https://i.pravatar.cc/100?img=5"
+      },
+      "date": "2026-06-01",
+      "readTime": "4 min read",
+      "tags": ["business", "travel", "health"],
+      "likes": 289,
+      "comments": [
+        {
+          "id": 1,
+          "user": "Nina",
+          "text": "This was really helpful, thanks for sharing!",
+          "date": "2026-06-01"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "title": "Preparing for competitive exams",
+      "slug": "preparing-for-competitive-exams",
+      "category": "Education",
+      "excerpt": "Simple, actionable advice on preparing for competitive exams for everyday life.",
+      "content": "In this post, we take a closer look at preparing for competitive exams. Whether you're just starting out or looking to refine your approach, there's something here for you.\n\nWe'll walk through the key ideas, common mistakes to avoid, and practical steps you can take today. By the end, you should have a clearer picture of how to move forward.\n\nRemember, consistency matters more than perfection. Start small, stay curious, and build from there.",
+      "image": "https://picsum.photos/seed/preparing-for-competitive-exams/800/400",
+      "author": {
+        "id": 1,
+        "name": "Maya Chen",
+        "avatar": "https://i.pravatar.cc/100?img=1"
+      },
+      "date": "2026-05-01",
+      "readTime": "5 min read",
+      "tags": ["productivity", "lifestyle", "tips"],
+      "likes": 34,
+      "comments": [
+        {
+          "id": 1,
+          "user": "Omar",
+          "text": "I disagree with point 3, but overall good post.",
+          "date": "2026-06-01"
+        },
+        {
+          "id": 2,
+          "user": "Sam",
+          "text": "Exactly what I needed right now.",
+          "date": "2026-06-01"
+        },
+        {
+          "id": 3,
+          "user": "Sam",
+          "text": "This was really helpful, thanks for sharing!",
+          "date": "2026-06-01"
+        },
+        {
+          "id": 4,
+          "user": "Alex",
+          "text": "Bookmarking this for later.",
+          "date": "2026-06-01"
+        },
+        {
+          "id": 5,
+          "user": "Alex",
+          "text": "This was really helpful, thanks for sharing!",
+          "date": "2026-06-01"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "title": "Minimalism: living with less",
+      "slug": "minimalism-living-with-less",
+      "category": "Lifestyle",
+      "excerpt": "Simple, actionable advice on minimalism: living with less for everyday life.",
+      "content": "In this post, we take a closer look at minimalism: living with less. Whether you're just starting out or looking to refine your approach, there's something here for you.\n\nWe'll walk through the key ideas, common mistakes to avoid, and practical steps you can take today. By the end, you should have a clearer picture of how to move forward.\n\nRemember, consistency matters more than perfection. Start small, stay curious, and build from there.",
+      "image": "https://picsum.photos/seed/minimalism-living-with-less/800/400",
+      "author": {
+        "id": 2,
+        "name": "Rohan Das",
+        "avatar": "https://i.pravatar.cc/100?img=2"
+      },
+      "date": "2026-05-01",
+      "readTime": "6 min read",
+      "tags": ["react", "tutorial", "design"],
+      "likes": 219,
+      "comments": [
+        {
+          "id": 1,
+          "user": "Jordan",
+          "text": "I disagree with point 3, but overall good post.",
+          "date": "2026-06-01"
+        },
+        {
+          "id": 2,
+          "user": "Jordan",
+          "text": "Great read, learned something new today.",
+          "date": "2026-06-01"
+        },
+        {
+          "id": 3,
+          "user": "Sam",
+          "text": "Well written and easy to follow.",
+          "date": "2026-06-01"
+        },
+        {
+          "id": 4,
+          "user": "Jordan",
+          "text": "Can you do a follow-up on this topic?",
+          "date": "2026-06-01"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "title": "Top VS Code extensions for developers",
+      "slug": "top-vs-code-extensions-for-developers",
+      "category": "Technology",
+      "excerpt": "A beginner-friendly guide to top vs code extensions for developers that covers the essentials.",
+      "content": "In this post, we take a closer look at top vs code extensions for developers. Whether you're just starting out or looking to refine your approach, there's something here for you.\n\nWe'll walk through the key ideas, common mistakes to avoid, and practical steps you can take today. By the end, you should have a clearer picture of how to move forward.\n\nRemember, consistency matters more than perfection. Start small, stay curious, and build from there.",
+      "image": "https://picsum.photos/seed/top-vs-code-extensions-for-developers/800/400",
+      "author": {
+        "id": 3,
+        "name": "Priya Nair",
+        "avatar": "https://i.pravatar.cc/100?img=3"
+      },
+      "date": "2026-05-01",
+      "readTime": "8 min read",
+      "tags": ["design", "react", "business"],
+      "likes": 293,
+      "comments": [
+        {
+          "id": 1,
+          "user": "Dev",
+          "text": "Exactly what I needed right now.",
+          "date": "2026-06-01"
+        },
+        {
+          "id": 2,
+          "user": "Sam",
+          "text": "Bookmarking this for later.",
+          "date": "2026-06-01"
+        },
+        {
+          "id": 3,
+          "user": "Sam",
+          "text": "Exactly what I needed right now.",
+          "date": "2026-06-01"
+        },
+        {
+          "id": 4,
+          "user": "Nina",
+          "text": "I disagree with point 3, but overall good post.",
+          "date": "2026-06-01"
+        },
+        {
+          "id": 5,
+          "user": "Riya",
+          "text": "Do you have any references for this?",
+          "date": "2026-06-01"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "title": "How to stay hydrated throughout the day",
+      "slug": "how-to-stay-hydrated-throughout-the-day",
+      "category": "Health",
+      "excerpt": "A practical look at how to stay hydrated throughout the day, with tips you can apply right away.",
+      "content": "In this post, we take a closer look at how to stay hydrated throughout the day. Whether you're just starting out or looking to refine your approach, there's something here for you.\n\nWe'll walk through the key ideas, common mistakes to avoid, and practical steps you can take today. By the end, you should have a clearer picture of how to move forward.\n\nRemember, consistency matters more than perfection. Start small, stay curious, and build from there.",
+      "image": "https://picsum.photos/seed/how-to-stay-hydrated-throughout-the-day/800/400",
+      "author": {
+        "id": 4,
+        "name": "Arjun Mehta",
+        "avatar": "https://i.pravatar.cc/100?img=4"
+      },
+      "date": "2026-05-01",
+      "readTime": "6 min read",
+      "tags": ["guide", "productivity", "travel"],
+      "likes": 72,
+      "comments": []
+    },
+    {
+      "id": 20,
+      "title": "Street food recipes you can make at home",
+      "slug": "street-food-recipes-you-can-make-at-home",
+      "category": "Food",
+      "excerpt": "Everything you need to know about street food recipes you can make at home in one place.",
+      "content": "In this post, we take a closer look at street food recipes you can make at home. Whether you're just starting out or looking to refine your approach, there's something here for you.\n\nWe'll walk through the key ideas, common mistakes to avoid, and practical steps you can take today. By the end, you should have a clearer picture of how to move forward.\n\nRemember, consistency matters more than perfection. Start small, stay curious, and build from there.",
+      "image": "https://picsum.photos/seed/street-food-recipes-you-can-make-at-home/800/400",
+      "author": {
+        "id": 5,
+        "name": "Sara Khan",
+        "avatar": "https://i.pravatar.cc/100?img=5"
+      },
+      "date": "2026-05-01",
+      "readTime": "5 min read",
+      "tags": ["productivity", "travel", "tutorial"],
+      "likes": 275,
+      "comments": [
+        {
+          "id": 1,
+          "user": "Jordan",
+          "text": "Can you do a follow-up on this topic?",
+          "date": "2026-06-01"
+        },
+        {
+          "id": 2,
+          "user": "Dev",
+          "text": "Exactly what I needed right now.",
+          "date": "2026-06-01"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "title": "Digital detox: why and how",
+      "slug": "digital-detox-why-and-how",
+      "category": "Lifestyle",
+      "excerpt": "Simple, actionable advice on digital detox: why and how for everyday life.",
+      "content": "In this post, we take a closer look at digital detox: why and how. Whether you're just starting out or looking to refine your approach, there's something here for you.\n\nWe'll walk through the key ideas, common mistakes to avoid, and practical steps you can take today. By the end, you should have a clearer picture of how to move forward.\n\nRemember, consistency matters more than perfection. Start small, stay curious, and build from there.",
+      "image": "https://picsum.photos/seed/digital-detox-why-and-how/800/400",
+      "author": {
+        "id": 1,
+        "name": "Maya Chen",
+        "avatar": "https://i.pravatar.cc/100?img=1"
+      },
+      "date": "2026-05-01",
+      "readTime": "4 min read",
+      "tags": ["beginner", "design", "tips"],
+      "likes": 140,
+      "comments": []
+    },
+    {
+      "id": 22,
+      "title": "How to write a business plan",
+      "slug": "how-to-write-a-business-plan",
+      "category": "Business",
+      "excerpt": "A practical look at how to write a business plan, with tips you can apply right away.",
+      "content": "In this post, we take a closer look at how to write a business plan. Whether you're just starting out or looking to refine your approach, there's something here for you.\n\nWe'll walk through the key ideas, common mistakes to avoid, and practical steps you can take today. By the end, you should have a clearer picture of how to move forward.\n\nRemember, consistency matters more than perfection. Start small, stay curious, and build from there.",
+      "image": "https://picsum.photos/seed/how-to-write-a-business-plan/800/400",
+      "author": {
+        "id": 2,
+        "name": "Rohan Das",
+        "avatar": "https://i.pravatar.cc/100?img=2"
+      },
+      "date": "2026-05-01",
+      "readTime": "7 min read",
+      "tags": ["productivity", "tips", "travel"],
+      "likes": 149,
+      "comments": []
+    },
+    {
+      "id": 23,
+      "title": "Building responsive layouts with CSS Grid",
+      "slug": "building-responsive-layouts-with-css-grid",
+      "category": "Technology",
+      "excerpt": "Exploring building responsive layouts with css grid and why it matters more than ever.",
+      "content": "In this post, we take a closer look at building responsive layouts with css grid. Whether you're just starting out or looking to refine your approach, there's something here for you.\n\nWe'll walk through the key ideas, common mistakes to avoid, and practical steps you can take today. By the end, you should have a clearer picture of how to move forward.\n\nRemember, consistency matters more than perfection. Start small, stay curious, and build from there.",
+      "image": "https://picsum.photos/seed/building-responsive-layouts-with-css-grid/800/400",
+      "author": {
+        "id": 3,
+        "name": "Priya Nair",
+        "avatar": "https://i.pravatar.cc/100?img=3"
+      },
+      "date": "2026-05-01",
+      "readTime": "8 min read",
+      "tags": ["travel", "react", "beginner"],
+      "likes": 175,
+      "comments": [
+        {
+          "id": 1,
+          "user": "Sam",
+          "text": "Bookmarking this for later.",
+          "date": "2026-06-01"
+        },
+        {
+          "id": 2,
+          "user": "Sam",
+          "text": "Exactly what I needed right now.",
+          "date": "2026-06-01"
+        },
+        {
+          "id": 3,
+          "user": "Omar",
+          "text": "Exactly what I needed right now.",
+          "date": "2026-06-01"
+        },
+        {
+          "id": 4,
+          "user": "Alex",
+          "text": "Great read, learned something new today.",
+          "date": "2026-06-01"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "title": "Easy meal prep for busy weeks",
+      "slug": "easy-meal-prep-for-busy-weeks",
+      "category": "Food",
+      "excerpt": "Exploring easy meal prep for busy weeks and why it matters more than ever.",
+      "content": "In this post, we take a closer look at easy meal prep for busy weeks. Whether you're just starting out or looking to refine your approach, there's something here for you.\n\nWe'll walk through the key ideas, common mistakes to avoid, and practical steps you can take today. By the end, you should have a clearer picture of how to move forward.\n\nRemember, consistency matters more than perfection. Start small, stay curious, and build from there.",
+      "image": "https://picsum.photos/seed/easy-meal-prep-for-busy-weeks/800/400",
+      "author": {
+        "id": 4,
+        "name": "Arjun Mehta",
+        "avatar": "https://i.pravatar.cc/100?img=4"
+      },
+      "date": "2026-05-01",
+      "readTime": "6 min read",
+      "tags": ["lifestyle", "health", "productivity"],
+      "likes": 9,
+      "comments": [
+        {
+          "id": 1,
+          "user": "Riya",
+          "text": "I disagree with point 3, but overall good post.",
+          "date": "2026-06-01"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "title": "Branding basics for startups",
+      "slug": "branding-basics-for-startups",
+      "category": "Business",
+      "excerpt": "A practical look at branding basics for startups, with tips you can apply right away.",
+      "content": "In this post, we take a closer look at branding basics for startups. Whether you're just starting out or looking to refine your approach, there's something here for you.\n\nWe'll walk through the key ideas, common mistakes to avoid, and practical steps you can take today. By the end, you should have a clearer picture of how to move forward.\n\nRemember, consistency matters more than perfection. Start small, stay curious, and build from there.",
+      "image": "https://picsum.photos/seed/branding-basics-for-startups/800/400",
+      "author": {
+        "id": 5,
+        "name": "Sara Khan",
+        "avatar": "https://i.pravatar.cc/100?img=5"
+      },
+      "date": "2026-05-01",
+      "readTime": "7 min read",
+      "tags": ["tips", "productivity", "react"],
+      "likes": 194,
+      "comments": []
+    },
+    {
+      "id": 26,
+      "title": "Yoga poses for flexibility",
+      "slug": "yoga-poses-for-flexibility",
+      "category": "Health",
+      "excerpt": "Everything you need to know about yoga poses for flexibility in one place.",
+      "content": "In this post, we take a closer look at yoga poses for flexibility. Whether you're just starting out or looking to refine your approach, there's something here for you.\n\nWe'll walk through the key ideas, common mistakes to avoid, and practical steps you can take today. By the end, you should have a clearer picture of how to move forward.\n\nRemember, consistency matters more than perfection. Start small, stay curious, and build from there.",
+      "image": "https://picsum.photos/seed/yoga-poses-for-flexibility/800/400",
+      "author": {
+        "id": 1,
+        "name": "Maya Chen",
+        "avatar": "https://i.pravatar.cc/100?img=1"
+      },
+      "date": "2026-05-01",
+      "readTime": "7 min read",
+      "tags": ["guide", "beginner", "design"],
+      "likes": 186,
+      "comments": [
+        {
+          "id": 1,
+          "user": "Taylor",
+          "text": "Well written and easy to follow.",
+          "date": "2026-06-01"
+        },
+        {
+          "id": 2,
+          "user": "Taylor",
+          "text": "This was really helpful, thanks for sharing!",
+          "date": "2026-06-01"
+        },
+        {
+          "id": 3,
+          "user": "Riya",
+          "text": "Bookmarking this for later.",
+          "date": "2026-06-01"
+        },
+        {
+          "id": 4,
+          "user": "Alex",
+          "text": "Bookmarking this for later.",
+          "date": "2026-06-01"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "title": "How to stay motivated while studying",
+      "slug": "how-to-stay-motivated-while-studying",
+      "category": "Education",
+      "excerpt": "A beginner-friendly guide to how to stay motivated while studying that covers the essentials.",
+      "content": "In this post, we take a closer look at how to stay motivated while studying. Whether you're just starting out or looking to refine your approach, there's something here for you.\n\nWe'll walk through the key ideas, common mistakes to avoid, and practical steps you can take today. By the end, you should have a clearer picture of how to move forward.\n\nRemember, consistency matters more than perfection. Start small, stay curious, and build from there.",
+      "image": "https://picsum.photos/seed/how-to-stay-motivated-while-studying/800/400",
+      "author": {
+        "id": 2,
+        "name": "Rohan Das",
+        "avatar": "https://i.pravatar.cc/100?img=2"
+      },
+      "date": "2026-05-01",
+      "readTime": "8 min read",
+      "tags": ["health", "beginner", "guide"],
+      "likes": 141,
+      "comments": [
+        {
+          "id": 1,
+          "user": "Nina",
+          "text": "I disagree with point 3, but overall good post.",
+          "date": "2026-06-01"
+        },
+        {
+          "id": 2,
+          "user": "Sam",
+          "text": "I disagree with point 3, but overall good post.",
+          "date": "2026-06-01"
+        },
+        {
+          "id": 3,
+          "user": "Taylor",
+          "text": "Well written and easy to follow.",
+          "date": "2026-06-01"
+        },
+        {
+          "id": 4,
+          "user": "Alex",
+          "text": "I disagree with point 3, but overall good post.",
+          "date": "2026-06-01"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "title": "Figma shortcuts to save time",
+      "slug": "figma-shortcuts-to-save-time",
+      "category": "Design",
+      "excerpt": "A practical look at figma shortcuts to save time, with tips you can apply right away.",
+      "content": "In this post, we take a closer look at figma shortcuts to save time. Whether you're just starting out or looking to refine your approach, there's something here for you.\n\nWe'll walk through the key ideas, common mistakes to avoid, and practical steps you can take today. By the end, you should have a clearer picture of how to move forward.\n\nRemember, consistency matters more than perfection. Start small, stay curious, and build from there.",
+      "image": "https://picsum.photos/seed/figma-shortcuts-to-save-time/800/400",
+      "author": {
+        "id": 3,
+        "name": "Priya Nair",
+        "avatar": "https://i.pravatar.cc/100?img=3"
+      },
+      "date": "2026-05-01",
+      "readTime": "8 min read",
+      "tags": ["business", "guide", "beginner"],
+      "likes": 240,
+      "comments": [
+        {
+          "id": 1,
+          "user": "Jordan",
+          "text": "Well written and easy to follow.",
+          "date": "2026-06-01"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "title": "Getting started with Tailwind CSS",
+      "slug": "getting-started-with-tailwind-css",
+      "category": "Technology",
+      "excerpt": "Everything you need to know about getting started with tailwind css in one place.",
+      "content": "In this post, we take a closer look at getting started with tailwind css. Whether you're just starting out or looking to refine your approach, there's something here for you.\n\nWe'll walk through the key ideas, common mistakes to avoid, and practical steps you can take today. By the end, you should have a clearer picture of how to move forward.\n\nRemember, consistency matters more than perfection. Start small, stay curious, and build from there.",
+      "image": "https://picsum.photos/seed/getting-started-with-tailwind-css/800/400",
+      "author": {
+        "id": 4,
+        "name": "Arjun Mehta",
+        "avatar": "https://i.pravatar.cc/100?img=4"
+      },
+      "date": "2026-05-15",
+      "readTime": "5 min read",
+      "tags": ["food", "travel", "design"],
+      "likes": 147,
+      "comments": [
+        {
+          "id": 1,
+          "user": "Riya",
+          "text": "Can you do a follow-up on this topic?",
+          "date": "2026-06-01"
+        },
+        {
+          "id": 2,
+          "user": "Sam",
+          "text": "This was really helpful, thanks for sharing!",
+          "date": "2026-06-01"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "title": "Marketing strategies for small businesses",
+      "slug": "marketing-strategies-for-small-businesses",
+      "category": "Business",
+      "excerpt": "A beginner-friendly guide to marketing strategies for small businesses that covers the essentials.",
+      "content": "In this post, we take a closer look at marketing strategies for small businesses. Whether you're just starting out or looking to refine your approach, there's something here for you.\n\nWe'll walk through the key ideas, common mistakes to avoid, and practical steps you can take today. By the end, you should have a clearer picture of how to move forward.\n\nRemember, consistency matters more than perfection. Start small, stay curious, and build from there.",
+      "image": "https://picsum.photos/seed/marketing-strategies-for-small-businesses/800/400",
+      "author": {
+        "id": 5,
+        "name": "Sara Khan",
+        "avatar": "https://i.pravatar.cc/100?img=5"
+      },
+      "date": "2026-05-14",
+      "readTime": "3 min read",
+      "tags": ["tutorial", "travel", "react"],
+      "likes": 60,
+      "comments": [
+        {
+          "id": 1,
+          "user": "Nina",
+          "text": "Bookmarking this for later.",
+          "date": "2026-06-01"
+        },
+        {
+          "id": 2,
+          "user": "Alex",
+          "text": "Great read, learned something new today.",
+          "date": "2026-06-01"
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "title": "Remote team management best practices",
+      "slug": "remote-team-management-best-practices",
+      "category": "Business",
+      "excerpt": "A practical look at remote team management best practices, with tips you can apply right away.",
+      "content": "In this post, we take a closer look at remote team management best practices. Whether you're just starting out or looking to refine your approach, there's something here for you.\n\nWe'll walk through the key ideas, common mistakes to avoid, and practical steps you can take today. By the end, you should have a clearer picture of how to move forward.\n\nRemember, consistency matters more than perfection. Start small, stay curious, and build from there.",
+      "image": "https://picsum.photos/seed/remote-team-management-best-practices/800/400",
+      "author": {
+        "id": 1,
+        "name": "Maya Chen",
+        "avatar": "https://i.pravatar.cc/100?img=1"
+      },
+      "date": "2026-05-13",
+      "readTime": "7 min read",
+      "tags": ["health", "react", "productivity"],
+      "likes": 280,
+      "comments": [
+        {
+          "id": 1,
+          "user": "Nina",
+          "text": "Bookmarking this for later.",
+          "date": "2026-06-01"
+        },
+        {
+          "id": 2,
+          "user": "Dev",
+          "text": "Well written and easy to follow.",
+          "date": "2026-06-01"
+        },
+        {
+          "id": 3,
+          "user": "Jordan",
+          "text": "Well written and easy to follow.",
+          "date": "2026-06-01"
+        },
+        {
+          "id": 4,
+          "user": "Sam",
+          "text": "Exactly what I needed right now.",
+          "date": "2026-06-01"
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "title": "The future of AI in software development",
+      "slug": "the-future-of-ai-in-software-development",
+      "category": "Technology",
+      "excerpt": "A beginner-friendly guide to the future of ai in software development that covers the essentials.",
+      "content": "In this post, we take a closer look at the future of ai in software development. Whether you're just starting out or looking to refine your approach, there's something here for you.\n\nWe'll walk through the key ideas, common mistakes to avoid, and practical steps you can take today. By the end, you should have a clearer picture of how to move forward.\n\nRemember, consistency matters more than perfection. Start small, stay curious, and build from there.",
+      "image": "https://picsum.photos/seed/the-future-of-ai-in-software-development/800/400",
+      "author": {
+        "id": 2,
+        "name": "Rohan Das",
+        "avatar": "https://i.pravatar.cc/100?img=2"
+      },
+      "date": "2026-05-12",
+      "readTime": "5 min read",
+      "tags": ["lifestyle", "travel", "productivity"],
+      "likes": 70,
+      "comments": [
+        {
+          "id": 1,
+          "user": "Sam",
+          "text": "Bookmarking this for later.",
+          "date": "2026-06-01"
+        },
+        {
+          "id": 2,
+          "user": "Nina",
+          "text": "Great read, learned something new today.",
+          "date": "2026-06-01"
+        },
+        {
+          "id": 3,
+          "user": "Dev",
+          "text": "Bookmarking this for later.",
+          "date": "2026-06-01"
+        },
+        {
+          "id": 4,
+          "user": "Jordan",
+          "text": "Exactly what I needed right now.",
+          "date": "2026-06-01"
+        },
+        {
+          "id": 5,
+          "user": "Riya",
+          "text": "Well written and easy to follow.",
+          "date": "2026-06-01"
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "title": "Git commands every developer should know",
+      "slug": "git-commands-every-developer-should-know",
+      "category": "Technology",
+      "excerpt": "Everything you need to know about git commands every developer should know in one place.",
+      "content": "In this post, we take a closer look at git commands every developer should know. Whether you're just starting out or looking to refine your approach, there's something here for you.\n\nWe'll walk through the key ideas, common mistakes to avoid, and practical steps you can take today. By the end, you should have a clearer picture of how to move forward.\n\nRemember, consistency matters more than perfection. Start small, stay curious, and build from there.",
+      "image": "https://picsum.photos/seed/git-commands-every-developer-should-know/800/400",
+      "author": {
+        "id": 3,
+        "name": "Priya Nair",
+        "avatar": "https://i.pravatar.cc/100?img=3"
+      },
+      "date": "2026-05-11",
+      "readTime": "6 min read",
+      "tags": ["tutorial", "travel", "health"],
+      "likes": 285,
+      "comments": [
+        {
+          "id": 1,
+          "user": "Nina",
+          "text": "Well written and easy to follow.",
+          "date": "2026-06-01"
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "title": "Introduction to machine learning",
+      "slug": "introduction-to-machine-learning",
+      "category": "Technology",
+      "excerpt": "A beginner-friendly guide to introduction to machine learning that covers the essentials.",
+      "content": "In this post, we take a closer look at introduction to machine learning. Whether you're just starting out or looking to refine your approach, there's something here for you.\n\nWe'll walk through the key ideas, common mistakes to avoid, and practical steps you can take today. By the end, you should have a clearer picture of how to move forward.\n\nRemember, consistency matters more than perfection. Start small, stay curious, and build from there.",
+      "image": "https://picsum.photos/seed/introduction-to-machine-learning/800/400",
+      "author": {
+        "id": 4,
+        "name": "Arjun Mehta",
+        "avatar": "https://i.pravatar.cc/100?img=4"
+      },
+      "date": "2026-05-10",
+      "readTime": "4 min read",
+      "tags": ["guide", "health", "tutorial"],
+      "likes": 169,
+      "comments": []
+    },
+    {
+      "id": 35,
+      "title": "Memory techniques for better recall",
+      "slug": "memory-techniques-for-better-recall",
+      "category": "Education",
+      "excerpt": "A beginner-friendly guide to memory techniques for better recall that covers the essentials.",
+      "content": "In this post, we take a closer look at memory techniques for better recall. Whether you're just starting out or looking to refine your approach, there's something here for you.\n\nWe'll walk through the key ideas, common mistakes to avoid, and practical steps you can take today. By the end, you should have a clearer picture of how to move forward.\n\nRemember, consistency matters more than perfection. Start small, stay curious, and build from there.",
+      "image": "https://picsum.photos/seed/memory-techniques-for-better-recall/800/400",
+      "author": {
+        "id": 5,
+        "name": "Sara Khan",
+        "avatar": "https://i.pravatar.cc/100?img=5"
+      },
+      "date": "2026-05-09",
+      "readTime": "6 min read",
+      "tags": ["beginner", "lifestyle", "tutorial"],
+      "likes": 176,
+      "comments": [
+        {
+          "id": 1,
+          "user": "Omar",
+          "text": "Do you have any references for this?",
+          "date": "2026-06-01"
+        },
+        {
+          "id": 2,
+          "user": "Sam",
+          "text": "Do you have any references for this?",
+          "date": "2026-06-01"
+        },
+        {
+          "id": 3,
+          "user": "Taylor",
+          "text": "Great read, learned something new today.",
+          "date": "2026-06-01"
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "title": "How to build better habits",
+      "slug": "how-to-build-better-habits",
+      "category": "Lifestyle",
+      "excerpt": "Everything you need to know about how to build better habits in one place.",
+      "content": "In this post, we take a closer look at how to build better habits. Whether you're just starting out or looking to refine your approach, there's something here for you.\n\nWe'll walk through the key ideas, common mistakes to avoid, and practical steps you can take today. By the end, you should have a clearer picture of how to move forward.\n\nRemember, consistency matters more than perfection. Start small, stay curious, and build from there.",
+      "image": "https://picsum.photos/seed/how-to-build-better-habits/800/400",
+      "author": {
+        "id": 1,
+        "name": "Maya Chen",
+        "avatar": "https://i.pravatar.cc/100?img=1"
+      },
+      "date": "2026-05-08",
+      "readTime": "7 min read",
+      "tags": ["travel", "guide", "beginner"],
+      "likes": 80,
+      "comments": []
+    },
+    {
+      "id": 37,
+      "title": "Customer retention strategies",
+      "slug": "customer-retention-strategies",
+      "category": "Business",
+      "excerpt": "A practical look at customer retention strategies, with tips you can apply right away.",
+      "content": "In this post, we take a closer look at customer retention strategies. Whether you're just starting out or looking to refine your approach, there's something here for you.\n\nWe'll walk through the key ideas, common mistakes to avoid, and practical steps you can take today. By the end, you should have a clearer picture of how to move forward.\n\nRemember, consistency matters more than perfection. Start small, stay curious, and build from there.",
+      "image": "https://picsum.photos/seed/customer-retention-strategies/800/400",
+      "author": {
+        "id": 2,
+        "name": "Rohan Das",
+        "avatar": "https://i.pravatar.cc/100?img=2"
+      },
+      "date": "2026-05-07",
+      "readTime": "3 min read",
+      "tags": ["business", "tutorial", "design"],
+      "likes": 238,
+      "comments": []
+    },
+    {
+      "id": 38,
+      "title": "A weekend guide to Darjeeling",
+      "slug": "a-weekend-guide-to-darjeeling",
+      "category": "Travel",
+      "excerpt": "A practical look at a weekend guide to darjeeling, with tips you can apply right away.",
+      "content": "In this post, we take a closer look at a weekend guide to darjeeling. Whether you're just starting out or looking to refine your approach, there's something here for you.\n\nWe'll walk through the key ideas, common mistakes to avoid, and practical steps you can take today. By the end, you should have a clearer picture of how to move forward.\n\nRemember, consistency matters more than perfection. Start small, stay curious, and build from there.",
+      "image": "https://picsum.photos/seed/a-weekend-guide-to-darjeeling/800/400",
+      "author": {
+        "id": 3,
+        "name": "Priya Nair",
+        "avatar": "https://i.pravatar.cc/100?img=3"
+      },
+      "date": "2026-05-06",
+      "readTime": "8 min read",
+      "tags": ["design", "health", "guide"],
+      "likes": 95,
+      "comments": [
+        {
+          "id": 1,
+          "user": "Sam",
+          "text": "Well written and easy to follow.",
+          "date": "2026-06-01"
+        },
+        {
+          "id": 2,
+          "user": "Omar",
+          "text": "Well written and easy to follow.",
+          "date": "2026-06-01"
+        },
+        {
+          "id": 3,
+          "user": "Sam",
+          "text": "I disagree with point 3, but overall good post.",
+          "date": "2026-06-01"
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "title": "10 tips for better react performance",
+      "slug": "10-tips-for-better-react-performance",
+      "category": "Technology",
+      "excerpt": "Simple, actionable advice on 10 tips for better react performance for everyday life.",
+      "content": "In this post, we take a closer look at 10 tips for better react performance. Whether you're just starting out or looking to refine your approach, there's something here for you.\n\nWe'll walk through the key ideas, common mistakes to avoid, and practical steps you can take today. By the end, you should have a clearer picture of how to move forward.\n\nRemember, consistency matters more than perfection. Start small, stay curious, and build from there.",
+      "image": "https://picsum.photos/seed/10-tips-for-better-react-performance/800/400",
+      "author": {
+        "id": 4,
+        "name": "Arjun Mehta",
+        "avatar": "https://i.pravatar.cc/100?img=4"
+      },
+      "date": "2026-05-05",
+      "readTime": "5 min read",
+      "tags": ["tips", "business", "beginner"],
+      "likes": 137,
+      "comments": [
+        {
+          "id": 1,
+          "user": "Omar",
+          "text": "This was really helpful, thanks for sharing!",
+          "date": "2026-06-01"
+        },
+        {
+          "id": 2,
+          "user": "Sam",
+          "text": "Great read, learned something new today.",
+          "date": "2026-06-01"
+        },
+        {
+          "id": 3,
+          "user": "Omar",
+          "text": "I disagree with point 3, but overall good post.",
+          "date": "2026-06-01"
+        },
+        {
+          "id": 4,
+          "user": "Omar",
+          "text": "Bookmarking this for later.",
+          "date": "2026-06-01"
+        },
+        {
+          "id": 5,
+          "user": "Omar",
+          "text": "Well written and easy to follow.",
+          "date": "2026-06-01"
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "title": "Budget travel hacks for students",
+      "slug": "budget-travel-hacks-for-students",
+      "category": "Travel",
+      "excerpt": "Everything you need to know about budget travel hacks for students in one place.",
+      "content": "In this post, we take a closer look at budget travel hacks for students. Whether you're just starting out or looking to refine your approach, there's something here for you.\n\nWe'll walk through the key ideas, common mistakes to avoid, and practical steps you can take today. By the end, you should have a clearer picture of how to move forward.\n\nRemember, consistency matters more than perfection. Start small, stay curious, and build from there.",
+      "image": "https://picsum.photos/seed/budget-travel-hacks-for-students/800/400",
+      "author": {
+        "id": 5,
+        "name": "Sara Khan",
+        "avatar": "https://i.pravatar.cc/100?img=5"
+      },
+      "date": "2026-05-04",
+      "readTime": "4 min read",
+      "tags": ["business", "design", "travel"],
+      "likes": 125,
+      "comments": [
+        {
+          "id": 1,
+          "user": "Riya",
+          "text": "Do you have any references for this?",
+          "date": "2026-06-01"
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "title": "A beginner's guide to Docker",
+      "slug": "a-beginners-guide-to-docker",
+      "category": "Technology",
+      "excerpt": "Everything you need to know about a beginner's guide to docker in one place.",
+      "content": "In this post, we take a closer look at a beginner's guide to docker. Whether you're just starting out or looking to refine your approach, there's something here for you.\n\nWe'll walk through the key ideas, common mistakes to avoid, and practical steps you can take today. By the end, you should have a clearer picture of how to move forward.\n\nRemember, consistency matters more than perfection. Start small, stay curious, and build from there.",
+      "image": "https://picsum.photos/seed/a-beginners-guide-to-docker/800/400",
+      "author": {
+        "id": 1,
+        "name": "Maya Chen",
+        "avatar": "https://i.pravatar.cc/100?img=1"
+      },
+      "date": "2026-05-03",
+      "readTime": "3 min read",
+      "tags": ["health", "tips", "guide"],
+      "likes": 37,
+      "comments": [
+        {
+          "id": 1,
+          "user": "Dev",
+          "text": "Bookmarking this for later.",
+          "date": "2026-06-01"
+        },
+        {
+          "id": 2,
+          "user": "Jordan",
+          "text": "I disagree with point 3, but overall good post.",
+          "date": "2026-06-01"
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "title": "What is REST API and how it works",
+      "slug": "what-is-rest-api-and-how-it-works",
+      "category": "Technology",
+      "excerpt": "Exploring what is rest api and how it works and why it matters more than ever.",
+      "content": "In this post, we take a closer look at what is rest api and how it works. Whether you're just starting out or looking to refine your approach, there's something here for you.\n\nWe'll walk through the key ideas, common mistakes to avoid, and practical steps you can take today. By the end, you should have a clearer picture of how to move forward.\n\nRemember, consistency matters more than perfection. Start small, stay curious, and build from there.",
+      "image": "https://picsum.photos/seed/what-is-rest-api-and-how-it-works/800/400",
+      "author": {
+        "id": 2,
+        "name": "Rohan Das",
+        "avatar": "https://i.pravatar.cc/100?img=2"
+      },
+      "date": "2026-05-02",
+      "readTime": "5 min read",
+      "tags": ["tutorial", "react", "lifestyle"],
+      "likes": 199,
+      "comments": [
+        {
+          "id": 1,
+          "user": "Nina",
+          "text": "Bookmarking this for later.",
+          "date": "2026-06-01"
+        },
+        {
+          "id": 2,
+          "user": "Omar",
+          "text": "Well written and easy to follow.",
+          "date": "2026-06-01"
+        },
+        {
+          "id": 3,
+          "user": "Alex",
+          "text": "Can you do a follow-up on this topic?",
+          "date": "2026-06-01"
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "title": "Exploring the old town of Lisbon",
+      "slug": "exploring-the-old-town-of-lisbon",
+      "category": "Travel",
+      "excerpt": "Exploring exploring the old town of lisbon and why it matters more than ever.",
+      "content": "In this post, we take a closer look at exploring the old town of lisbon. Whether you're just starting out or looking to refine your approach, there's something here for you.\n\nWe'll walk through the key ideas, common mistakes to avoid, and practical steps you can take today. By the end, you should have a clearer picture of how to move forward.\n\nRemember, consistency matters more than perfection. Start small, stay curious, and build from there.",
+      "image": "https://picsum.photos/seed/exploring-the-old-town-of-lisbon/800/400",
+      "author": {
+        "id": 3,
+        "name": "Priya Nair",
+        "avatar": "https://i.pravatar.cc/100?img=3"
+      },
+      "date": "2026-05-01",
+      "readTime": "3 min read",
+      "tags": ["travel", "health", "business"],
+      "likes": 19,
+      "comments": [
+        {
+          "id": 1,
+          "user": "Alex",
+          "text": "Bookmarking this for later.",
+          "date": "2026-06-01"
+        },
+        {
+          "id": 2,
+          "user": "Riya",
+          "text": "Well written and easy to follow.",
+          "date": "2026-06-01"
+        },
+        {
+          "id": 3,
+          "user": "Nina",
+          "text": "Can you do a follow-up on this topic?",
+          "date": "2026-06-01"
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "title": "Negotiation skills for professionals",
+      "slug": "negotiation-skills-for-professionals",
+      "category": "Business",
+      "excerpt": "Exploring negotiation skills for professionals and why it matters more than ever.",
+      "content": "In this post, we take a closer look at negotiation skills for professionals. Whether you're just starting out or looking to refine your approach, there's something here for you.\n\nWe'll walk through the key ideas, common mistakes to avoid, and practical steps you can take today. By the end, you should have a clearer picture of how to move forward.\n\nRemember, consistency matters more than perfection. Start small, stay curious, and build from there.",
+      "image": "https://picsum.photos/seed/negotiation-skills-for-professionals/800/400",
+      "author": {
+        "id": 4,
+        "name": "Arjun Mehta",
+        "avatar": "https://i.pravatar.cc/100?img=4"
+      },
+      "date": "2026-05-01",
+      "readTime": "6 min read",
+      "tags": ["tutorial", "beginner", "react"],
+      "likes": 47,
+      "comments": [
+        {
+          "id": 1,
+          "user": "Dev",
+          "text": "Well written and easy to follow.",
+          "date": "2026-06-01"
+        },
+        {
+          "id": 2,
+          "user": "Taylor",
+          "text": "Do you have any references for this?",
+          "date": "2026-06-01"
+        },
+        {
+          "id": 3,
+          "user": "Taylor",
+          "text": "This was really helpful, thanks for sharing!",
+          "date": "2026-06-01"
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "title": "Managing screen time for eye health",
+      "slug": "managing-screen-time-for-eye-health",
+      "category": "Health",
+      "excerpt": "A beginner-friendly guide to managing screen time for eye health that covers the essentials.",
+      "content": "In this post, we take a closer look at managing screen time for eye health. Whether you're just starting out or looking to refine your approach, there's something here for you.\n\nWe'll walk through the key ideas, common mistakes to avoid, and practical steps you can take today. By the end, you should have a clearer picture of how to move forward.\n\nRemember, consistency matters more than perfection. Start small, stay curious, and build from there.",
+      "image": "https://picsum.photos/seed/managing-screen-time-for-eye-health/800/400",
+      "author": {
+        "id": 5,
+        "name": "Sara Khan",
+        "avatar": "https://i.pravatar.cc/100?img=5"
+      },
+      "date": "2026-05-01",
+      "readTime": "4 min read",
+      "tags": ["health", "travel", "lifestyle"],
+      "likes": 134,
+      "comments": [
+        {
+          "id": 1,
+          "user": "Nina",
+          "text": "I disagree with point 3, but overall good post.",
+          "date": "2026-06-01"
+        },
+        {
+          "id": 2,
+          "user": "Omar",
+          "text": "I disagree with point 3, but overall good post.",
+          "date": "2026-06-01"
+        },
+        {
+          "id": 3,
+          "user": "Alex",
+          "text": "Exactly what I needed right now.",
+          "date": "2026-06-01"
+        },
+        {
+          "id": 4,
+          "user": "Nina",
+          "text": "Bookmarking this for later.",
+          "date": "2026-06-01"
+        },
+        {
+          "id": 5,
+          "user": "Sam",
+          "text": "Do you have any references for this?",
+          "date": "2026-06-01"
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "title": "Self-care practices for busy people",
+      "slug": "self-care-practices-for-busy-people",
+      "category": "Lifestyle",
+      "excerpt": "Exploring self-care practices for busy people and why it matters more than ever.",
+      "content": "In this post, we take a closer look at self-care practices for busy people. Whether you're just starting out or looking to refine your approach, there's something here for you.\n\nWe'll walk through the key ideas, common mistakes to avoid, and practical steps you can take today. By the end, you should have a clearer picture of how to move forward.\n\nRemember, consistency matters more than perfection. Start small, stay curious, and build from there.",
+      "image": "https://picsum.photos/seed/self-care-practices-for-busy-people/800/400",
+      "author": {
+        "id": 1,
+        "name": "Maya Chen",
+        "avatar": "https://i.pravatar.cc/100?img=1"
+      },
+      "date": "2026-05-01",
+      "readTime": "2 min read",
+      "tags": ["lifestyle", "productivity", "react"],
+      "likes": 184,
+      "comments": []
+    },
+    {
+      "id": 47,
+      "title": "Dark mode design patterns",
+      "slug": "dark-mode-design-patterns",
+      "category": "Design",
+      "excerpt": "A practical look at dark mode design patterns, with tips you can apply right away.",
+      "content": "In this post, we take a closer look at dark mode design patterns. Whether you're just starting out or looking to refine your approach, there's something here for you.\n\nWe'll walk through the key ideas, common mistakes to avoid, and practical steps you can take today. By the end, you should have a clearer picture of how to move forward.\n\nRemember, consistency matters more than perfection. Start small, stay curious, and build from there.",
+      "image": "https://picsum.photos/seed/dark-mode-design-patterns/800/400",
+      "author": {
+        "id": 2,
+        "name": "Rohan Das",
+        "avatar": "https://i.pravatar.cc/100?img=2"
+      },
+      "date": "2026-05-01",
+      "readTime": "3 min read",
+      "tags": ["guide", "react", "tutorial"],
+      "likes": 83,
+      "comments": [
+        {
+          "id": 1,
+          "user": "Jordan",
+          "text": "This was really helpful, thanks for sharing!",
+          "date": "2026-06-01"
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "title": "Baking basics for first-timers",
+      "slug": "baking-basics-for-first-timers",
+      "category": "Food",
+      "excerpt": "A practical look at baking basics for first-timers, with tips you can apply right away.",
+      "content": "In this post, we take a closer look at baking basics for first-timers. Whether you're just starting out or looking to refine your approach, there's something here for you.\n\nWe'll walk through the key ideas, common mistakes to avoid, and practical steps you can take today. By the end, you should have a clearer picture of how to move forward.\n\nRemember, consistency matters more than perfection. Start small, stay curious, and build from there.",
+      "image": "https://picsum.photos/seed/baking-basics-for-first-timers/800/400",
+      "author": {
+        "id": 3,
+        "name": "Priya Nair",
+        "avatar": "https://i.pravatar.cc/100?img=3"
+      },
+      "date": "2026-05-01",
+      "readTime": "6 min read",
+      "tags": ["guide", "business", "travel"],
+      "likes": 193,
+      "comments": [
+        {
+          "id": 1,
+          "user": "Taylor",
+          "text": "Do you have any references for this?",
+          "date": "2026-06-01"
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "title": "How to pitch to investors",
+      "slug": "how-to-pitch-to-investors",
+      "category": "Business",
+      "excerpt": "A beginner-friendly guide to how to pitch to investors that covers the essentials.",
+      "content": "In this post, we take a closer look at how to pitch to investors. Whether you're just starting out or looking to refine your approach, there's something here for you.\n\nWe'll walk through the key ideas, common mistakes to avoid, and practical steps you can take today. By the end, you should have a clearer picture of how to move forward.\n\nRemember, consistency matters more than perfection. Start small, stay curious, and build from there.",
+      "image": "https://picsum.photos/seed/how-to-pitch-to-investors/800/400",
+      "author": {
+        "id": 4,
+        "name": "Arjun Mehta",
+        "avatar": "https://i.pravatar.cc/100?img=4"
+      },
+      "date": "2026-05-01",
+      "readTime": "2 min read",
+      "tags": ["tutorial", "react", "travel"],
+      "likes": 299,
+      "comments": [
+        {
+          "id": 1,
+          "user": "Jordan",
+          "text": "I disagree with point 3, but overall good post.",
+          "date": "2026-06-01"
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "title": "Serverless computing explained",
+      "slug": "serverless-computing-explained",
+      "category": "Technology",
+      "excerpt": "Simple, actionable advice on serverless computing explained for everyday life.",
+      "content": "In this post, we take a closer look at serverless computing explained. Whether you're just starting out or looking to refine your approach, there's something here for you.\n\nWe'll walk through the key ideas, common mistakes to avoid, and practical steps you can take today. By the end, you should have a clearer picture of how to move forward.\n\nRemember, consistency matters more than perfection. Start small, stay curious, and build from there.",
+      "image": "https://picsum.photos/seed/serverless-computing-explained/800/400",
+      "author": {
+        "id": 5,
+        "name": "Sara Khan",
+        "avatar": "https://i.pravatar.cc/100?img=5"
+      },
+      "date": "2026-05-01",
+      "readTime": "5 min read",
+      "tags": ["beginner", "food", "design"],
+      "likes": 264,
+      "comments": [
+        {
+          "id": 1,
+          "user": "Nina",
+          "text": "Well written and easy to follow.",
+          "date": "2026-06-01"
+        },
+        {
+          "id": 2,
+          "user": "Sam",
+          "text": "Great read, learned something new today.",
+          "date": "2026-06-01"
+        },
+        {
+          "id": 3,
+          "user": "Sam",
+          "text": "Great read, learned something new today.",
+          "date": "2026-06-01"
+        },
+        {
+          "id": 4,
+          "user": "Riya",
+          "text": "Great read, learned something new today.",
+          "date": "2026-06-01"
+        },
+        {
+          "id": 5,
+          "user": "Alex",
+          "text": "Bookmarking this for later.",
+          "date": "2026-06-01"
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "title": "Color theory basics for beginners",
+      "slug": "color-theory-basics-for-beginners",
+      "category": "Design",
+      "excerpt": "Everything you need to know about color theory basics for beginners in one place.",
+      "content": "In this post, we take a closer look at color theory basics for beginners. Whether you're just starting out or looking to refine your approach, there's something here for you.\n\nWe'll walk through the key ideas, common mistakes to avoid, and practical steps you can take today. By the end, you should have a clearer picture of how to move forward.\n\nRemember, consistency matters more than perfection. Start small, stay curious, and build from there.",
+      "image": "https://picsum.photos/seed/color-theory-basics-for-beginners/800/400",
+      "author": {
+        "id": 1,
+        "name": "Maya Chen",
+        "avatar": "https://i.pravatar.cc/100?img=1"
+      },
+      "date": "2026-05-01",
+      "readTime": "7 min read",
+      "tags": ["productivity", "beginner", "travel"],
+      "likes": 280,
+      "comments": [
+        {
+          "id": 1,
+          "user": "Dev",
+          "text": "This was really helpful, thanks for sharing!",
+          "date": "2026-06-01"
+        },
+        {
+          "id": 2,
+          "user": "Nina",
+          "text": "Do you have any references for this?",
+          "date": "2026-06-01"
+        },
+        {
+          "id": 3,
+          "user": "Jordan",
+          "text": "Well written and easy to follow.",
+          "date": "2026-06-01"
+        },
+        {
+          "id": 4,
+          "user": "Dev",
+          "text": "Do you have any references for this?",
+          "date": "2026-06-01"
+        },
+        {
+          "id": 5,
+          "user": "Taylor",
+          "text": "Well written and easy to follow.",
+          "date": "2026-06-01"
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "title": "A guide to solo travel safety",
+      "slug": "a-guide-to-solo-travel-safety",
+      "category": "Travel",
+      "excerpt": "A beginner-friendly guide to a guide to solo travel safety that covers the essentials.",
+      "content": "In this post, we take a closer look at a guide to solo travel safety. Whether you're just starting out or looking to refine your approach, there's something here for you.\n\nWe'll walk through the key ideas, common mistakes to avoid, and practical steps you can take today. By the end, you should have a clearer picture of how to move forward.\n\nRemember, consistency matters more than perfection. Start small, stay curious, and build from there.",
+      "image": "https://picsum.photos/seed/a-guide-to-solo-travel-safety/800/400",
+      "author": {
+        "id": 2,
+        "name": "Rohan Das",
+        "avatar": "https://i.pravatar.cc/100?img=2"
+      },
+      "date": "2026-05-01",
+      "readTime": "5 min read",
+      "tags": ["guide", "business", "tutorial"],
+      "likes": 199,
+      "comments": [
+        {
+          "id": 1,
+          "user": "Omar",
+          "text": "Well written and easy to follow.",
+          "date": "2026-06-01"
+        },
+        {
+          "id": 2,
+          "user": "Riya",
+          "text": "Bookmarking this for later.",
+          "date": "2026-06-01"
+        },
+        {
+          "id": 3,
+          "user": "Sam",
+          "text": "Great read, learned something new today.",
+          "date": "2026-06-01"
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "title": "Understanding async/await in JavaScript",
+      "slug": "understanding-async-await-in-javascript",
+      "category": "Technology",
+      "excerpt": "Exploring understanding async/await in javascript and why it matters more than ever.",
+      "content": "In this post, we take a closer look at understanding async/await in javascript. Whether you're just starting out or looking to refine your approach, there's something here for you.\n\nWe'll walk through the key ideas, common mistakes to avoid, and practical steps you can take today. By the end, you should have a clearer picture of how to move forward.\n\nRemember, consistency matters more than perfection. Start small, stay curious, and build from there.",
+      "image": "https://picsum.photos/seed/understanding-async-await-in-javascript/800/400",
+      "author": {
+        "id": 3,
+        "name": "Priya Nair",
+        "avatar": "https://i.pravatar.cc/100?img=3"
+      },
+      "date": "2026-05-01",
+      "readTime": "3 min read",
+      "tags": ["food", "travel", "lifestyle"],
+      "likes": 148,
+      "comments": [
+        {
+          "id": 1,
+          "user": "Alex",
+          "text": "Do you have any references for this?",
+          "date": "2026-06-01"
+        },
+        {
+          "id": 2,
+          "user": "Dev",
+          "text": "I disagree with point 3, but overall good post.",
+          "date": "2026-06-01"
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "title": "Mental health check-ins: why they matter",
+      "slug": "mental-health-check-ins-why-they-matter",
+      "category": "Health",
+      "excerpt": "Exploring mental health check-ins: why they matter and why it matters more than ever.",
+      "content": "In this post, we take a closer look at mental health check-ins: why they matter. Whether you're just starting out or looking to refine your approach, there's something here for you.\n\nWe'll walk through the key ideas, common mistakes to avoid, and practical steps you can take today. By the end, you should have a clearer picture of how to move forward.\n\nRemember, consistency matters more than perfection. Start small, stay curious, and build from there.",
+      "image": "https://picsum.photos/seed/mental-health-check-ins-why-they-matter/800/400",
+      "author": {
+        "id": 4,
+        "name": "Arjun Mehta",
+        "avatar": "https://i.pravatar.cc/100?img=4"
+      },
+      "date": "2026-05-01",
+      "readTime": "7 min read",
+      "tags": ["lifestyle", "business", "beginner"],
+      "likes": 13,
+      "comments": [
+        {
+          "id": 1,
+          "user": "Riya",
+          "text": "This was really helpful, thanks for sharing!",
+          "date": "2026-06-01"
+        },
+        {
+          "id": 2,
+          "user": "Sam",
+          "text": "Great read, learned something new today.",
+          "date": "2026-06-01"
+        },
+        {
+          "id": 3,
+          "user": "Sam",
+          "text": "Well written and easy to follow.",
+          "date": "2026-06-01"
+        },
+        {
+          "id": 4,
+          "user": "Omar",
+          "text": "Can you do a follow-up on this topic?",
+          "date": "2026-06-01"
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "title": "Best time to visit Japan",
+      "slug": "best-time-to-visit-japan",
+      "category": "Travel",
+      "excerpt": "A beginner-friendly guide to best time to visit japan that covers the essentials.",
+      "content": "In this post, we take a closer look at best time to visit japan. Whether you're just starting out or looking to refine your approach, there's something here for you.\n\nWe'll walk through the key ideas, common mistakes to avoid, and practical steps you can take today. By the end, you should have a clearer picture of how to move forward.\n\nRemember, consistency matters more than perfection. Start small, stay curious, and build from there.",
+      "image": "https://picsum.photos/seed/best-time-to-visit-japan/800/400",
+      "author": {
+        "id": 5,
+        "name": "Sara Khan",
+        "avatar": "https://i.pravatar.cc/100?img=5"
+      },
+      "date": "2026-05-01",
+      "readTime": "3 min read",
+      "tags": ["health", "guide", "travel"],
+      "likes": 193,
+      "comments": []
+    },
+    {
+      "id": 56,
+      "title": "Mindful living in a fast-paced world",
+      "slug": "mindful-living-in-a-fast-paced-world",
+      "category": "Lifestyle",
+      "excerpt": "A beginner-friendly guide to mindful living in a fast-paced world that covers the essentials.",
+      "content": "In this post, we take a closer look at mindful living in a fast-paced world. Whether you're just starting out or looking to refine your approach, there's something here for you.\n\nWe'll walk through the key ideas, common mistakes to avoid, and practical steps you can take today. By the end, you should have a clearer picture of how to move forward.\n\nRemember, consistency matters more than perfection. Start small, stay curious, and build from there.",
+      "image": "https://picsum.photos/seed/mindful-living-in-a-fast-paced-world/800/400",
+      "author": {
+        "id": 1,
+        "name": "Maya Chen",
+        "avatar": "https://i.pravatar.cc/100?img=1"
+      },
+      "date": "2026-05-01",
+      "readTime": "4 min read",
+      "tags": ["guide", "design", "lifestyle"],
+      "likes": 166,
+      "comments": [
+        {
+          "id": 1,
+          "user": "Dev",
+          "text": "Well written and easy to follow.",
+          "date": "2026-06-01"
+        },
+        {
+          "id": 2,
+          "user": "Dev",
+          "text": "Bookmarking this for later.",
+          "date": "2026-06-01"
+        },
+        {
+          "id": 3,
+          "user": "Omar",
+          "text": "Exactly what I needed right now.",
+          "date": "2026-06-01"
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "title": "Five quick weeknight pasta recipes",
+      "slug": "five-quick-weeknight-pasta-recipes",
+      "category": "Food",
+      "excerpt": "Simple, actionable advice on five quick weeknight pasta recipes for everyday life.",
+      "content": "In this post, we take a closer look at five quick weeknight pasta recipes. Whether you're just starting out or looking to refine your approach, there's something here for you.\n\nWe'll walk through the key ideas, common mistakes to avoid, and practical steps you can take today. By the end, you should have a clearer picture of how to move forward.\n\nRemember, consistency matters more than perfection. Start small, stay curious, and build from there.",
+      "image": "https://picsum.photos/seed/five-quick-weeknight-pasta-recipes/800/400",
+      "author": {
+        "id": 2,
+        "name": "Rohan Das",
+        "avatar": "https://i.pravatar.cc/100?img=2"
+      },
+      "date": "2026-05-15",
+      "readTime": "8 min read",
+      "tags": ["lifestyle", "tips", "guide"],
+      "likes": 115,
+      "comments": []
+    },
+    {
+      "id": 58,
+      "title": "Typography rules every designer should know",
+      "slug": "typography-rules-every-designer-should-know",
+      "category": "Design",
+      "excerpt": "A practical look at typography rules every designer should know, with tips you can apply right away.",
+      "content": "In this post, we take a closer look at typography rules every designer should know. Whether you're just starting out or looking to refine your approach, there's something here for you.\n\nWe'll walk through the key ideas, common mistakes to avoid, and practical steps you can take today. By the end, you should have a clearer picture of how to move forward.\n\nRemember, consistency matters more than perfection. Start small, stay curious, and build from there.",
+      "image": "https://picsum.photos/seed/typography-rules-every-designer-should-know/800/400",
+      "author": {
+        "id": 3,
+        "name": "Priya Nair",
+        "avatar": "https://i.pravatar.cc/100?img=3"
+      },
+      "date": "2026-05-14",
+      "readTime": "7 min read",
+      "tags": ["productivity", "tips", "travel"],
+      "likes": 28,
+      "comments": [
+        {
+          "id": 1,
+          "user": "Omar",
+          "text": "Exactly what I needed right now.",
+          "date": "2026-06-01"
+        },
+        {
+          "id": 2,
+          "user": "Riya",
+          "text": "Great read, learned something new today.",
+          "date": "2026-06-01"
+        },
+        {
+          "id": 3,
+          "user": "Sam",
+          "text": "Exactly what I needed right now.",
+          "date": "2026-06-01"
+        },
+        {
+          "id": 4,
+          "user": "Sam",
+          "text": "Bookmarking this for later.",
+          "date": "2026-06-01"
+        },
+        {
+          "id": 5,
+          "user": "Taylor",
+          "text": "Exactly what I needed right now.",
+          "date": "2026-06-01"
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "title": "Building a design system from scratch",
+      "slug": "building-a-design-system-from-scratch",
+      "category": "Design",
+      "excerpt": "Simple, actionable advice on building a design system from scratch for everyday life.",
+      "content": "In this post, we take a closer look at building a design system from scratch. Whether you're just starting out or looking to refine your approach, there's something here for you.\n\nWe'll walk through the key ideas, common mistakes to avoid, and practical steps you can take today. By the end, you should have a clearer picture of how to move forward.\n\nRemember, consistency matters more than perfection. Start small, stay curious, and build from there.",
+      "image": "https://picsum.photos/seed/building-a-design-system-from-scratch/800/400",
+      "author": {
+        "id": 4,
+        "name": "Arjun Mehta",
+        "avatar": "https://i.pravatar.cc/100?img=4"
+      },
+      "date": "2026-05-13",
+      "readTime": "4 min read",
+      "tags": ["lifestyle", "tips", "business"],
+      "likes": 57,
+      "comments": []
+    },
+    {
+      "id": 60,
+      "title": "Cultural etiquette for travelers",
+      "slug": "cultural-etiquette-for-travelers",
+      "category": "Travel",
+      "excerpt": "Simple, actionable advice on cultural etiquette for travelers for everyday life.",
+      "content": "In this post, we take a closer look at cultural etiquette for travelers. Whether you're just starting out or looking to refine your approach, there's something here for you.\n\nWe'll walk through the key ideas, common mistakes to avoid, and practical steps you can take today. By the end, you should have a clearer picture of how to move forward.\n\nRemember, consistency matters more than perfection. Start small, stay curious, and build from there.",
+      "image": "https://picsum.photos/seed/cultural-etiquette-for-travelers/800/400",
+      "author": {
+        "id": 5,
+        "name": "Sara Khan",
+        "avatar": "https://i.pravatar.cc/100?img=5"
+      },
+      "date": "2026-05-12",
+      "readTime": "4 min read",
+      "tags": ["business", "lifestyle", "beginner"],
+      "likes": 179,
+      "comments": []
+    },
+    {
+      "id": 61,
+      "title": "Morning routines that stick",
+      "slug": "morning-routines-that-stick",
+      "category": "Lifestyle",
+      "excerpt": "Exploring morning routines that stick and why it matters more than ever.",
+      "content": "In this post, we take a closer look at morning routines that stick. Whether you're just starting out or looking to refine your approach, there's something here for you.\n\nWe'll walk through the key ideas, common mistakes to avoid, and practical steps you can take today. By the end, you should have a clearer picture of how to move forward.\n\nRemember, consistency matters more than perfection. Start small, stay curious, and build from there.",
+      "image": "https://picsum.photos/seed/morning-routines-that-stick/800/400",
+      "author": {
+        "id": 1,
+        "name": "Maya Chen",
+        "avatar": "https://i.pravatar.cc/100?img=1"
+      },
+      "date": "2026-05-11",
+      "readTime": "2 min read",
+      "tags": ["design", "health", "business"],
+      "likes": 42,
+      "comments": [
+        {
+          "id": 1,
+          "user": "Alex",
+          "text": "Exactly what I needed right now.",
+          "date": "2026-06-01"
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "title": "A beginner's guide to meditation",
+      "slug": "a-beginners-guide-to-meditation",
+      "category": "Health",
+      "excerpt": "Simple, actionable advice on a beginner's guide to meditation for everyday life.",
+      "content": "In this post, we take a closer look at a beginner's guide to meditation. Whether you're just starting out or looking to refine your approach, there's something here for you.\n\nWe'll walk through the key ideas, common mistakes to avoid, and practical steps you can take today. By the end, you should have a clearer picture of how to move forward.\n\nRemember, consistency matters more than perfection. Start small, stay curious, and build from there.",
+      "image": "https://picsum.photos/seed/a-beginners-guide-to-meditation/800/400",
+      "author": {
+        "id": 2,
+        "name": "Rohan Das",
+        "avatar": "https://i.pravatar.cc/100?img=2"
+      },
+      "date": "2026-05-10",
+      "readTime": "6 min read",
+      "tags": ["tutorial", "guide", "productivity"],
+      "likes": 199,
+      "comments": [
+        {
+          "id": 1,
+          "user": "Alex",
+          "text": "I disagree with point 3, but overall good post.",
+          "date": "2026-06-01"
+        },
+        {
+          "id": 2,
+          "user": "Taylor",
+          "text": "Exactly what I needed right now.",
+          "date": "2026-06-01"
+        },
+        {
+          "id": 3,
+          "user": "Jordan",
+          "text": "Can you do a follow-up on this topic?",
+          "date": "2026-06-01"
+        },
+        {
+          "id": 4,
+          "user": "Jordan",
+          "text": "Well written and easy to follow.",
+          "date": "2026-06-01"
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "title": "Note-taking methods that work",
+      "slug": "note-taking-methods-that-work",
+      "category": "Education",
+      "excerpt": "Everything you need to know about note-taking methods that work in one place.",
+      "content": "In this post, we take a closer look at note-taking methods that work. Whether you're just starting out or looking to refine your approach, there's something here for you.\n\nWe'll walk through the key ideas, common mistakes to avoid, and practical steps you can take today. By the end, you should have a clearer picture of how to move forward.\n\nRemember, consistency matters more than perfection. Start small, stay curious, and build from there.",
+      "image": "https://picsum.photos/seed/note-taking-methods-that-work/800/400",
+      "author": {
+        "id": 3,
+        "name": "Priya Nair",
+        "avatar": "https://i.pravatar.cc/100?img=3"
+      },
+      "date": "2026-05-09",
+      "readTime": "7 min read",
+      "tags": ["guide", "travel", "design"],
+      "likes": 85,
+      "comments": [
+        {
+          "id": 1,
+          "user": "Omar",
+          "text": "Exactly what I needed right now.",
+          "date": "2026-06-01"
+        },
+        {
+          "id": 2,
+          "user": "Nina",
+          "text": "Exactly what I needed right now.",
+          "date": "2026-06-01"
+        },
+        {
+          "id": 3,
+          "user": "Alex",
+          "text": "Great read, learned something new today.",
+          "date": "2026-06-01"
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "title": "Road trip essentials checklist",
+      "slug": "road-trip-essentials-checklist",
+      "category": "Travel",
+      "excerpt": "Everything you need to know about road trip essentials checklist in one place.",
+      "content": "In this post, we take a closer look at road trip essentials checklist. Whether you're just starting out or looking to refine your approach, there's something here for you.\n\nWe'll walk through the key ideas, common mistakes to avoid, and practical steps you can take today. By the end, you should have a clearer picture of how to move forward.\n\nRemember, consistency matters more than perfection. Start small, stay curious, and build from there.",
+      "image": "https://picsum.photos/seed/road-trip-essentials-checklist/800/400",
+      "author": {
+        "id": 4,
+        "name": "Arjun Mehta",
+        "avatar": "https://i.pravatar.cc/100?img=4"
+      },
+      "date": "2026-05-08",
+      "readTime": "2 min read",
+      "tags": ["health", "business", "tutorial"],
+      "likes": 245,
+      "comments": [
+        {
+          "id": 1,
+          "user": "Taylor",
+          "text": "Great read, learned something new today.",
+          "date": "2026-06-01"
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "title": "Tips for first-time entrepreneurs",
+      "slug": "tips-for-first-time-entrepreneurs",
+      "category": "Business",
+      "excerpt": "Exploring tips for first-time entrepreneurs and why it matters more than ever.",
+      "content": "In this post, we take a closer look at tips for first-time entrepreneurs. Whether you're just starting out or looking to refine your approach, there's something here for you.\n\nWe'll walk through the key ideas, common mistakes to avoid, and practical steps you can take today. By the end, you should have a clearer picture of how to move forward.\n\nRemember, consistency matters more than perfection. Start small, stay curious, and build from there.",
+      "image": "https://picsum.photos/seed/tips-for-first-time-entrepreneurs/800/400",
+      "author": {
+        "id": 5,
+        "name": "Sara Khan",
+        "avatar": "https://i.pravatar.cc/100?img=5"
+      },
+      "date": "2026-05-07",
+      "readTime": "2 min read",
+      "tags": ["beginner", "guide", "travel"],
+      "likes": 106,
+      "comments": [
+        {
+          "id": 1,
+          "user": "Alex",
+          "text": "Can you do a follow-up on this topic?",
+          "date": "2026-06-01"
+        },
+        {
+          "id": 2,
+          "user": "Riya",
+          "text": "Exactly what I needed right now.",
+          "date": "2026-06-01"
+        }
+      ]
+    },
+    {
+      "id": 66,
+      "title": "How to secure your web application",
+      "slug": "how-to-secure-your-web-application",
+      "category": "Technology",
+      "excerpt": "A practical look at how to secure your web application, with tips you can apply right away.",
+      "content": "In this post, we take a closer look at how to secure your web application. Whether you're just starting out or looking to refine your approach, there's something here for you.\n\nWe'll walk through the key ideas, common mistakes to avoid, and practical steps you can take today. By the end, you should have a clearer picture of how to move forward.\n\nRemember, consistency matters more than perfection. Start small, stay curious, and build from there.",
+      "image": "https://picsum.photos/seed/how-to-secure-your-web-application/800/400",
+      "author": {
+        "id": 1,
+        "name": "Maya Chen",
+        "avatar": "https://i.pravatar.cc/100?img=1"
+      },
+      "date": "2026-05-06",
+      "readTime": "3 min read",
+      "tags": ["travel", "tutorial", "beginner"],
+      "likes": 152,
+      "comments": [
+        {
+          "id": 1,
+          "user": "Jordan",
+          "text": "Can you do a follow-up on this topic?",
+          "date": "2026-06-01"
+        },
+        {
+          "id": 2,
+          "user": "Taylor",
+          "text": "Exactly what I needed right now.",
+          "date": "2026-06-01"
+        },
+        {
+          "id": 3,
+          "user": "Taylor",
+          "text": "Great read, learned something new today.",
+          "date": "2026-06-01"
+        }
+      ]
+    },
+    {
+      "id": 67,
+      "title": "Scaling a business sustainably",
+      "slug": "scaling-a-business-sustainably",
+      "category": "Business",
+      "excerpt": "Exploring scaling a business sustainably and why it matters more than ever.",
+      "content": "In this post, we take a closer look at scaling a business sustainably. Whether you're just starting out or looking to refine your approach, there's something here for you.\n\nWe'll walk through the key ideas, common mistakes to avoid, and practical steps you can take today. By the end, you should have a clearer picture of how to move forward.\n\nRemember, consistency matters more than perfection. Start small, stay curious, and build from there.",
+      "image": "https://picsum.photos/seed/scaling-a-business-sustainably/800/400",
+      "author": {
+        "id": 2,
+        "name": "Rohan Das",
+        "avatar": "https://i.pravatar.cc/100?img=2"
+      },
+      "date": "2026-05-05",
+      "readTime": "2 min read",
+      "tags": ["tutorial", "react", "health"],
+      "likes": 170,
+      "comments": [
+        {
+          "id": 1,
+          "user": "Jordan",
+          "text": "Do you have any references for this?",
+          "date": "2026-06-01"
+        },
+        {
+          "id": 2,
+          "user": "Riya",
+          "text": "Well written and easy to follow.",
+          "date": "2026-06-01"
+        },
+        {
+          "id": 3,
+          "user": "Riya",
+          "text": "Do you have any references for this?",
+          "date": "2026-06-01"
+        }
+      ]
+    },
+    {
+      "id": 68,
+      "title": "Island hopping in Thailand",
+      "slug": "island-hopping-in-thailand",
+      "category": "Travel",
+      "excerpt": "Exploring island hopping in thailand and why it matters more than ever.",
+      "content": "In this post, we take a closer look at island hopping in thailand. Whether you're just starting out or looking to refine your approach, there's something here for you.\n\nWe'll walk through the key ideas, common mistakes to avoid, and practical steps you can take today. By the end, you should have a clearer picture of how to move forward.\n\nRemember, consistency matters more than perfection. Start small, stay curious, and build from there.",
+      "image": "https://picsum.photos/seed/island-hopping-in-thailand/800/400",
+      "author": {
+        "id": 3,
+        "name": "Priya Nair",
+        "avatar": "https://i.pravatar.cc/100?img=3"
+      },
+      "date": "2026-05-04",
+      "readTime": "6 min read",
+      "tags": ["beginner", "business", "travel"],
+      "likes": 97,
+      "comments": [
+        {
+          "id": 1,
+          "user": "Riya",
+          "text": "This was really helpful, thanks for sharing!",
+          "date": "2026-06-01"
+        },
+        {
+          "id": 2,
+          "user": "Jordan",
+          "text": "Can you do a follow-up on this topic?",
+          "date": "2026-06-01"
+        },
+        {
+          "id": 3,
+          "user": "Alex",
+          "text": "Exactly what I needed right now.",
+          "date": "2026-06-01"
+        },
+        {
+          "id": 4,
+          "user": "Alex",
+          "text": "I disagree with point 3, but overall good post.",
+          "date": "2026-06-01"
+        }
+      ]
+    },
+    {
+      "id": 69,
+      "title": "10 tips for better UI design",
+      "slug": "10-tips-for-better-ui-design",
+      "category": "Design",
+      "excerpt": "A practical look at 10 tips for better ui design, with tips you can apply right away.",
+      "content": "In this post, we take a closer look at 10 tips for better ui design. Whether you're just starting out or looking to refine your approach, there's something here for you.\n\nWe'll walk through the key ideas, common mistakes to avoid, and practical steps you can take today. By the end, you should have a clearer picture of how to move forward.\n\nRemember, consistency matters more than perfection. Start small, stay curious, and build from there.",
+      "image": "https://picsum.photos/seed/10-tips-for-better-ui-design/800/400",
+      "author": {
+        "id": 4,
+        "name": "Arjun Mehta",
+        "avatar": "https://i.pravatar.cc/100?img=4"
+      },
+      "date": "2026-05-03",
+      "readTime": "8 min read",
+      "tags": ["tips", "food", "health"],
+      "likes": 258,
+      "comments": [
+        {
+          "id": 1,
+          "user": "Nina",
+          "text": "Do you have any references for this?",
+          "date": "2026-06-01"
+        },
+        {
+          "id": 2,
+          "user": "Jordan",
+          "text": "Do you have any references for this?",
+          "date": "2026-06-01"
+        },
+        {
+          "id": 3,
+          "user": "Dev",
+          "text": "Well written and easy to follow.",
+          "date": "2026-06-01"
+        },
+        {
+          "id": 4,
+          "user": "Dev",
+          "text": "Bookmarking this for later.",
+          "date": "2026-06-01"
+        }
+      ]
+    },
+    {
+      "id": 70,
+      "title": "Choosing the right career path",
+      "slug": "choosing-the-right-career-path",
+      "category": "Education",
+      "excerpt": "A beginner-friendly guide to choosing the right career path that covers the essentials.",
+      "content": "In this post, we take a closer look at choosing the right career path. Whether you're just starting out or looking to refine your approach, there's something here for you.\n\nWe'll walk through the key ideas, common mistakes to avoid, and practical steps you can take today. By the end, you should have a clearer picture of how to move forward.\n\nRemember, consistency matters more than perfection. Start small, stay curious, and build from there.",
+      "image": "https://picsum.photos/seed/choosing-the-right-career-path/800/400",
+      "author": {
+        "id": 5,
+        "name": "Sara Khan",
+        "avatar": "https://i.pravatar.cc/100?img=5"
+      },
+      "date": "2026-05-02",
+      "readTime": "4 min read",
+      "tags": ["food", "design", "health"],
+      "likes": 268,
+      "comments": [
+        {
+          "id": 1,
+          "user": "Nina",
+          "text": "This was really helpful, thanks for sharing!",
+          "date": "2026-06-01"
+        },
+        {
+          "id": 2,
+          "user": "Omar",
+          "text": "Great read, learned something new today.",
+          "date": "2026-06-01"
+        }
+      ]
+    },
+    {
+      "id": 71,
+      "title": "Organizing your week for success",
+      "slug": "organizing-your-week-for-success",
+      "category": "Lifestyle",
+      "excerpt": "Simple, actionable advice on organizing your week for success for everyday life.",
+      "content": "In this post, we take a closer look at organizing your week for success. Whether you're just starting out or looking to refine your approach, there's something here for you.\n\nWe'll walk through the key ideas, common mistakes to avoid, and practical steps you can take today. By the end, you should have a clearer picture of how to move forward.\n\nRemember, consistency matters more than perfection. Start small, stay curious, and build from there.",
+      "image": "https://picsum.photos/seed/organizing-your-week-for-success/800/400",
+      "author": {
+        "id": 1,
+        "name": "Maya Chen",
+        "avatar": "https://i.pravatar.cc/100?img=1"
+      },
+      "date": "2026-05-01",
+      "readTime": "5 min read",
+      "tags": ["health", "react", "guide"],
+      "likes": 270,
+      "comments": []
+    },
+    {
+      "id": 72,
+      "title": "The benefits of lifelong learning",
+      "slug": "the-benefits-of-lifelong-learning",
+      "category": "Education",
+      "excerpt": "A beginner-friendly guide to the benefits of lifelong learning that covers the essentials.",
+      "content": "In this post, we take a closer look at the benefits of lifelong learning. Whether you're just starting out or looking to refine your approach, there's something here for you.\n\nWe'll walk through the key ideas, common mistakes to avoid, and practical steps you can take today. By the end, you should have a clearer picture of how to move forward.\n\nRemember, consistency matters more than perfection. Start small, stay curious, and build from there.",
+      "image": "https://picsum.photos/seed/the-benefits-of-lifelong-learning/800/400",
+      "author": {
+        "id": 2,
+        "name": "Rohan Das",
+        "avatar": "https://i.pravatar.cc/100?img=2"
+      },
+      "date": "2026-05-01",
+      "readTime": "6 min read",
+      "tags": ["tips", "travel", "business"],
+      "likes": 253,
+      "comments": [
+        {
+          "id": 1,
+          "user": "Omar",
+          "text": "Do you have any references for this?",
+          "date": "2026-06-01"
+        },
+        {
+          "id": 2,
+          "user": "Alex",
+          "text": "Can you do a follow-up on this topic?",
+          "date": "2026-06-01"
+        }
+      ]
+    },
+    {
+      "id": 73,
+      "title": "Journaling for mental clarity",
+      "slug": "journaling-for-mental-clarity",
+      "category": "Lifestyle",
+      "excerpt": "A practical look at journaling for mental clarity, with tips you can apply right away.",
+      "content": "In this post, we take a closer look at journaling for mental clarity. Whether you're just starting out or looking to refine your approach, there's something here for you.\n\nWe'll walk through the key ideas, common mistakes to avoid, and practical steps you can take today. By the end, you should have a clearer picture of how to move forward.\n\nRemember, consistency matters more than perfection. Start small, stay curious, and build from there.",
+      "image": "https://picsum.photos/seed/journaling-for-mental-clarity/800/400",
+      "author": {
+        "id": 3,
+        "name": "Priya Nair",
+        "avatar": "https://i.pravatar.cc/100?img=3"
+      },
+      "date": "2026-05-01",
+      "readTime": "7 min read",
+      "tags": ["tutorial", "guide", "tips"],
+      "likes": 164,
+      "comments": []
+    },
+    {
+      "id": 74,
+      "title": "Building a reading habit",
+      "slug": "building-a-reading-habit",
+      "category": "Education",
+      "excerpt": "Exploring building a reading habit and why it matters more than ever.",
+      "content": "In this post, we take a closer look at building a reading habit. Whether you're just starting out or looking to refine your approach, there's something here for you.\n\nWe'll walk through the key ideas, common mistakes to avoid, and practical steps you can take today. By the end, you should have a clearer picture of how to move forward.\n\nRemember, consistency matters more than perfection. Start small, stay curious, and build from there.",
+      "image": "https://picsum.photos/seed/building-a-reading-habit/800/400",
+      "author": {
+        "id": 4,
+        "name": "Arjun Mehta",
+        "avatar": "https://i.pravatar.cc/100?img=4"
+      },
+      "date": "2026-05-01",
+      "readTime": "7 min read",
+      "tags": ["travel", "productivity", "lifestyle"],
+      "likes": 217,
+      "comments": [
+        {
+          "id": 1,
+          "user": "Alex",
+          "text": "Well written and easy to follow.",
+          "date": "2026-06-01"
+        },
+        {
+          "id": 2,
+          "user": "Jordan",
+          "text": "Can you do a follow-up on this topic?",
+          "date": "2026-06-01"
+        },
+        {
+          "id": 3,
+          "user": "Jordan",
+          "text": "Do you have any references for this?",
+          "date": "2026-06-01"
+        },
+        {
+          "id": 4,
+          "user": "Jordan",
+          "text": "I disagree with point 3, but overall good post.",
+          "date": "2026-06-01"
+        }
+      ]
+    },
+    {
+      "id": 75,
+      "title": "How to make perfect sourdough bread",
+      "slug": "how-to-make-perfect-sourdough-bread",
+      "category": "Food",
+      "excerpt": "Simple, actionable advice on how to make perfect sourdough bread for everyday life.",
+      "content": "In this post, we take a closer look at how to make perfect sourdough bread. Whether you're just starting out or looking to refine your approach, there's something here for you.\n\nWe'll walk through the key ideas, common mistakes to avoid, and practical steps you can take today. By the end, you should have a clearer picture of how to move forward.\n\nRemember, consistency matters more than perfection. Start small, stay curious, and build from there.",
+      "image": "https://picsum.photos/seed/how-to-make-perfect-sourdough-bread/800/400",
+      "author": {
+        "id": 5,
+        "name": "Sara Khan",
+        "avatar": "https://i.pravatar.cc/100?img=5"
+      },
+      "date": "2026-05-01",
+      "readTime": "6 min read",
+      "tags": ["lifestyle", "tips", "design"],
+      "likes": 146,
+      "comments": [
+        {
+          "id": 1,
+          "user": "Omar",
+          "text": "Can you do a follow-up on this topic?",
+          "date": "2026-06-01"
+        },
+        {
+          "id": 2,
+          "user": "Omar",
+          "text": "I disagree with point 3, but overall good post.",
+          "date": "2026-06-01"
+        },
+        {
+          "id": 3,
+          "user": "Nina",
+          "text": "Can you do a follow-up on this topic?",
+          "date": "2026-06-01"
+        }
+      ]
+    },
+    {
+      "id": 76,
+      "title": "Walking: an underrated form of exercise",
+      "slug": "walking-an-underrated-form-of-exercise",
+      "category": "Health",
+      "excerpt": "Everything you need to know about walking: an underrated form of exercise in one place.",
+      "content": "In this post, we take a closer look at walking: an underrated form of exercise. Whether you're just starting out or looking to refine your approach, there's something here for you.\n\nWe'll walk through the key ideas, common mistakes to avoid, and practical steps you can take today. By the end, you should have a clearer picture of how to move forward.\n\nRemember, consistency matters more than perfection. Start small, stay curious, and build from there.",
+      "image": "https://picsum.photos/seed/walking-an-underrated-form-of-exercise/800/400",
+      "author": {
+        "id": 1,
+        "name": "Maya Chen",
+        "avatar": "https://i.pravatar.cc/100?img=1"
+      },
+      "date": "2026-05-01",
+      "readTime": "5 min read",
+      "tags": ["productivity", "business", "food"],
+      "likes": 175,
+      "comments": [
+        {
+          "id": 1,
+          "user": "Dev",
+          "text": "Exactly what I needed right now.",
+          "date": "2026-06-01"
+        },
+        {
+          "id": 2,
+          "user": "Alex",
+          "text": "Exactly what I needed right now.",
+          "date": "2026-06-01"
+        },
+        {
+          "id": 3,
+          "user": "Riya",
+          "text": "Do you have any references for this?",
+          "date": "2026-06-01"
+        }
+      ]
+    },
+    {
+      "id": 77,
+      "title": "Learning to code: where to start",
+      "slug": "learning-to-code-where-to-start",
+      "category": "Education",
+      "excerpt": "A practical look at learning to code: where to start, with tips you can apply right away.",
+      "content": "In this post, we take a closer look at learning to code: where to start. Whether you're just starting out or looking to refine your approach, there's something here for you.\n\nWe'll walk through the key ideas, common mistakes to avoid, and practical steps you can take today. By the end, you should have a clearer picture of how to move forward.\n\nRemember, consistency matters more than perfection. Start small, stay curious, and build from there.",
+      "image": "https://picsum.photos/seed/learning-to-code-where-to-start/800/400",
+      "author": {
+        "id": 2,
+        "name": "Rohan Das",
+        "avatar": "https://i.pravatar.cc/100?img=2"
+      },
+      "date": "2026-05-01",
+      "readTime": "4 min read",
+      "tags": ["lifestyle", "business", "health"],
+      "likes": 202,
+      "comments": [
+        {
+          "id": 1,
+          "user": "Nina",
+          "text": "Do you have any references for this?",
+          "date": "2026-06-01"
+        },
+        {
+          "id": 2,
+          "user": "Dev",
+          "text": "Can you do a follow-up on this topic?",
+          "date": "2026-06-01"
+        },
+        {
+          "id": 3,
+          "user": "Sam",
+          "text": "Well written and easy to follow.",
+          "date": "2026-06-01"
+        },
+        {
+          "id": 4,
+          "user": "Sam",
+          "text": "Well written and easy to follow.",
+          "date": "2026-06-01"
+        }
+      ]
+    },
+    {
+      "id": 78,
+      "title": "Understanding intermittent fasting",
+      "slug": "understanding-intermittent-fasting",
+      "category": "Health",
+      "excerpt": "Everything you need to know about understanding intermittent fasting in one place.",
+      "content": "In this post, we take a closer look at understanding intermittent fasting. Whether you're just starting out or looking to refine your approach, there's something here for you.\n\nWe'll walk through the key ideas, common mistakes to avoid, and practical steps you can take today. By the end, you should have a clearer picture of how to move forward.\n\nRemember, consistency matters more than perfection. Start small, stay curious, and build from there.",
+      "image": "https://picsum.photos/seed/understanding-intermittent-fasting/800/400",
+      "author": {
+        "id": 3,
+        "name": "Priya Nair",
+        "avatar": "https://i.pravatar.cc/100?img=3"
+      },
+      "date": "2026-05-01",
+      "readTime": "5 min read",
+      "tags": ["beginner", "tips", "design"],
+      "likes": 245,
+      "comments": [
+        {
+          "id": 1,
+          "user": "Taylor",
+          "text": "Do you have any references for this?",
+          "date": "2026-06-01"
+        },
+        {
+          "id": 2,
+          "user": "Alex",
+          "text": "I disagree with point 3, but overall good post.",
+          "date": "2026-06-01"
+        },
+        {
+          "id": 3,
+          "user": "Dev",
+          "text": "Great read, learned something new today.",
+          "date": "2026-06-01"
+        },
+        {
+          "id": 4,
+          "user": "Omar",
+          "text": "Great read, learned something new today.",
+          "date": "2026-06-01"
+        },
+        {
+          "id": 5,
+          "user": "Omar",
+          "text": "This was really helpful, thanks for sharing!",
+          "date": "2026-06-01"
+        }
+      ]
+    },
+    {
+      "id": 79,
+      "title": "Healthy breakfast bowls under 300 calories",
+      "slug": "healthy-breakfast-bowls-under-300-calories",
+      "category": "Food",
+      "excerpt": "Simple, actionable advice on healthy breakfast bowls under 300 calories for everyday life.",
+      "content": "In this post, we take a closer look at healthy breakfast bowls under 300 calories. Whether you're just starting out or looking to refine your approach, there's something here for you.\n\nWe'll walk through the key ideas, common mistakes to avoid, and practical steps you can take today. By the end, you should have a clearer picture of how to move forward.\n\nRemember, consistency matters more than perfection. Start small, stay curious, and build from there.",
+      "image": "https://picsum.photos/seed/healthy-breakfast-bowls-under-300-calories/800/400",
+      "author": {
+        "id": 4,
+        "name": "Arjun Mehta",
+        "avatar": "https://i.pravatar.cc/100?img=4"
+      },
+      "date": "2026-05-01",
+      "readTime": "5 min read",
+      "tags": ["food", "beginner", "business"],
+      "likes": 282,
+      "comments": [
+        {
+          "id": 1,
+          "user": "Dev",
+          "text": "Well written and easy to follow.",
+          "date": "2026-06-01"
+        },
+        {
+          "id": 2,
+          "user": "Jordan",
+          "text": "Bookmarking this for later.",
+          "date": "2026-06-01"
+        }
+      ]
+    },
+    {
+      "id": 80,
+      "title": "The art of plating desserts",
+      "slug": "the-art-of-plating-desserts",
+      "category": "Food",
+      "excerpt": "Simple, actionable advice on the art of plating desserts for everyday life.",
+      "content": "In this post, we take a closer look at the art of plating desserts. Whether you're just starting out or looking to refine your approach, there's something here for you.\n\nWe'll walk through the key ideas, common mistakes to avoid, and practical steps you can take today. By the end, you should have a clearer picture of how to move forward.\n\nRemember, consistency matters more than perfection. Start small, stay curious, and build from there.",
+      "image": "https://picsum.photos/seed/the-art-of-plating-desserts/800/400",
+      "author": {
+        "id": 5,
+        "name": "Sara Khan",
+        "avatar": "https://i.pravatar.cc/100?img=5"
+      },
+      "date": "2026-05-01",
+      "readTime": "2 min read",
+      "tags": ["guide", "beginner", "travel"],
+      "likes": 121,
+      "comments": []
+    },
+    {
+      "id": 81,
+      "title": "How to learn a new language faster",
+      "slug": "how-to-learn-a-new-language-faster",
+      "category": "Education",
+      "excerpt": "A practical look at how to learn a new language faster, with tips you can apply right away.",
+      "content": "In this post, we take a closer look at how to learn a new language faster. Whether you're just starting out or looking to refine your approach, there's something here for you.\n\nWe'll walk through the key ideas, common mistakes to avoid, and practical steps you can take today. By the end, you should have a clearer picture of how to move forward.\n\nRemember, consistency matters more than perfection. Start small, stay curious, and build from there.",
+      "image": "https://picsum.photos/seed/how-to-learn-a-new-language-faster/800/400",
+      "author": {
+        "id": 1,
+        "name": "Maya Chen",
+        "avatar": "https://i.pravatar.cc/100?img=1"
+      },
+      "date": "2026-05-01",
+      "readTime": "4 min read",
+      "tags": ["food", "lifestyle", "health"],
+      "likes": 79,
+      "comments": [
+        {
+          "id": 1,
+          "user": "Jordan",
+          "text": "Well written and easy to follow.",
+          "date": "2026-06-01"
+        },
+        {
+          "id": 2,
+          "user": "Jordan",
+          "text": "Great read, learned something new today.",
+          "date": "2026-06-01"
+        },
+        {
+          "id": 3,
+          "user": "Omar",
+          "text": "I disagree with point 3, but overall good post.",
+          "date": "2026-06-01"
+        },
+        {
+          "id": 4,
+          "user": "Riya",
+          "text": "This was really helpful, thanks for sharing!",
+          "date": "2026-06-01"
+        },
+        {
+          "id": 5,
+          "user": "Alex",
+          "text": "Bookmarking this for later.",
+          "date": "2026-06-01"
+        }
+      ]
+    },
+    {
+      "id": 82,
+      "title": "Time management tips for students",
+      "slug": "time-management-tips-for-students",
+      "category": "Education",
+      "excerpt": "Everything you need to know about time management tips for students in one place.",
+      "content": "In this post, we take a closer look at time management tips for students. Whether you're just starting out or looking to refine your approach, there's something here for you.\n\nWe'll walk through the key ideas, common mistakes to avoid, and practical steps you can take today. By the end, you should have a clearer picture of how to move forward.\n\nRemember, consistency matters more than perfection. Start small, stay curious, and build from there.",
+      "image": "https://picsum.photos/seed/time-management-tips-for-students/800/400",
+      "author": {
+        "id": 2,
+        "name": "Rohan Das",
+        "avatar": "https://i.pravatar.cc/100?img=2"
+      },
+      "date": "2026-05-01",
+      "readTime": "3 min read",
+      "tags": ["design", "tutorial", "health"],
+      "likes": 128,
+      "comments": [
+        {
+          "id": 1,
+          "user": "Nina",
+          "text": "I disagree with point 3, but overall good post.",
+          "date": "2026-06-01"
+        }
+      ]
+    },
+    {
+      "id": 83,
+      "title": "The rise of neumorphism",
+      "slug": "the-rise-of-neumorphism",
+      "category": "Design",
+      "excerpt": "A practical look at the rise of neumorphism, with tips you can apply right away.",
+      "content": "In this post, we take a closer look at the rise of neumorphism. Whether you're just starting out or looking to refine your approach, there's something here for you.\n\nWe'll walk through the key ideas, common mistakes to avoid, and practical steps you can take today. By the end, you should have a clearer picture of how to move forward.\n\nRemember, consistency matters more than perfection. Start small, stay curious, and build from there.",
+      "image": "https://picsum.photos/seed/the-rise-of-neumorphism/800/400",
+      "author": {
+        "id": 3,
+        "name": "Priya Nair",
+        "avatar": "https://i.pravatar.cc/100?img=3"
+      },
+      "date": "2026-05-01",
+      "readTime": "8 min read",
+      "tags": ["business", "travel", "productivity"],
+      "likes": 85,
+      "comments": [
+        {
+          "id": 1,
+          "user": "Taylor",
+          "text": "Can you do a follow-up on this topic?",
+          "date": "2026-06-01"
+        },
+        {
+          "id": 2,
+          "user": "Omar",
+          "text": "Exactly what I needed right now.",
+          "date": "2026-06-01"
+        },
+        {
+          "id": 3,
+          "user": "Omar",
+          "text": "Exactly what I needed right now.",
+          "date": "2026-06-01"
+        }
+      ]
+    },
+    {
+      "id": 84,
+      "title": "Creating a productive home office",
+      "slug": "creating-a-productive-home-office",
+      "category": "Lifestyle",
+      "excerpt": "Exploring creating a productive home office and why it matters more than ever.",
+      "content": "In this post, we take a closer look at creating a productive home office. Whether you're just starting out or looking to refine your approach, there's something here for you.\n\nWe'll walk through the key ideas, common mistakes to avoid, and practical steps you can take today. By the end, you should have a clearer picture of how to move forward.\n\nRemember, consistency matters more than perfection. Start small, stay curious, and build from there.",
+      "image": "https://picsum.photos/seed/creating-a-productive-home-office/800/400",
+      "author": {
+        "id": 4,
+        "name": "Arjun Mehta",
+        "avatar": "https://i.pravatar.cc/100?img=4"
+      },
+      "date": "2026-05-01",
+      "readTime": "4 min read",
+      "tags": ["tutorial", "travel", "health"],
+      "likes": 133,
+      "comments": []
+    },
+    {
+      "id": 85,
+      "title": "Building a strong company culture",
+      "slug": "building-a-strong-company-culture",
+      "category": "Business",
+      "excerpt": "Exploring building a strong company culture and why it matters more than ever.",
+      "content": "In this post, we take a closer look at building a strong company culture. Whether you're just starting out or looking to refine your approach, there's something here for you.\n\nWe'll walk through the key ideas, common mistakes to avoid, and practical steps you can take today. By the end, you should have a clearer picture of how to move forward.\n\nRemember, consistency matters more than perfection. Start small, stay curious, and build from there.",
+      "image": "https://picsum.photos/seed/building-a-strong-company-culture/800/400",
+      "author": {
+        "id": 5,
+        "name": "Sara Khan",
+        "avatar": "https://i.pravatar.cc/100?img=5"
+      },
+      "date": "2026-05-15",
+      "readTime": "6 min read",
+      "tags": ["food", "tutorial", "travel"],
+      "likes": 156,
+      "comments": [
+        {
+          "id": 1,
+          "user": "Riya",
+          "text": "Can you do a follow-up on this topic?",
+          "date": "2026-06-01"
+        },
+        {
+          "id": 2,
+          "user": "Nina",
+          "text": "Do you have any references for this?",
+          "date": "2026-06-01"
+        },
+        {
+          "id": 3,
+          "user": "Jordan",
+          "text": "Can you do a follow-up on this topic?",
+          "date": "2026-06-01"
+        }
+      ]
+    },
+    {
+      "id": 86,
+      "title": "The psychology of color in branding",
+      "slug": "the-psychology-of-color-in-branding",
+      "category": "Design",
+      "excerpt": "Exploring the psychology of color in branding and why it matters more than ever.",
+      "content": "In this post, we take a closer look at the psychology of color in branding. Whether you're just starting out or looking to refine your approach, there's something here for you.\n\nWe'll walk through the key ideas, common mistakes to avoid, and practical steps you can take today. By the end, you should have a clearer picture of how to move forward.\n\nRemember, consistency matters more than perfection. Start small, stay curious, and build from there.",
+      "image": "https://picsum.photos/seed/the-psychology-of-color-in-branding/800/400",
+      "author": {
+        "id": 1,
+        "name": "Maya Chen",
+        "avatar": "https://i.pravatar.cc/100?img=1"
+      },
+      "date": "2026-05-14",
+      "readTime": "4 min read",
+      "tags": ["react", "tutorial", "lifestyle"],
+      "likes": 259,
+      "comments": []
+    },
+    {
+      "id": 87,
+      "title": "Nutrition myths debunked",
+      "slug": "nutrition-myths-debunked",
+      "category": "Health",
+      "excerpt": "Simple, actionable advice on nutrition myths debunked for everyday life.",
+      "content": "In this post, we take a closer look at nutrition myths debunked. Whether you're just starting out or looking to refine your approach, there's something here for you.\n\nWe'll walk through the key ideas, common mistakes to avoid, and practical steps you can take today. By the end, you should have a clearer picture of how to move forward.\n\nRemember, consistency matters more than perfection. Start small, stay curious, and build from there.",
+      "image": "https://picsum.photos/seed/nutrition-myths-debunked/800/400",
+      "author": {
+        "id": 2,
+        "name": "Rohan Das",
+        "avatar": "https://i.pravatar.cc/100?img=2"
+      },
+      "date": "2026-05-13",
+      "readTime": "4 min read",
+      "tags": ["beginner", "lifestyle", "tips"],
+      "likes": 54,
+      "comments": [
+        {
+          "id": 1,
+          "user": "Sam",
+          "text": "Bookmarking this for later.",
+          "date": "2026-06-01"
+        },
+        {
+          "id": 2,
+          "user": "Sam",
+          "text": "Can you do a follow-up on this topic?",
+          "date": "2026-06-01"
+        }
+      ]
+    },
+    {
+      "id": 88,
+      "title": "Online learning vs traditional classrooms",
+      "slug": "online-learning-vs-traditional-classrooms",
+      "category": "Education",
+      "excerpt": "Everything you need to know about online learning vs traditional classrooms in one place.",
+      "content": "In this post, we take a closer look at online learning vs traditional classrooms. Whether you're just starting out or looking to refine your approach, there's something here for you.\n\nWe'll walk through the key ideas, common mistakes to avoid, and practical steps you can take today. By the end, you should have a clearer picture of how to move forward.\n\nRemember, consistency matters more than perfection. Start small, stay curious, and build from there.",
+      "image": "https://picsum.photos/seed/online-learning-vs-traditional-classrooms/800/400",
+      "author": {
+        "id": 3,
+        "name": "Priya Nair",
+        "avatar": "https://i.pravatar.cc/100?img=3"
+      },
+      "date": "2026-05-12",
+      "readTime": "3 min read",
+      "tags": ["tips", "productivity", "food"],
+      "likes": 276,
+      "comments": [
+        {
+          "id": 1,
+          "user": "Alex",
+          "text": "Exactly what I needed right now.",
+          "date": "2026-06-01"
+        },
+        {
+          "id": 2,
+          "user": "Omar",
+          "text": "This was really helpful, thanks for sharing!",
+          "date": "2026-06-01"
+        },
+        {
+          "id": 3,
+          "user": "Dev",
+          "text": "I disagree with point 3, but overall good post.",
+          "date": "2026-06-01"
+        },
+        {
+          "id": 4,
+          "user": "Jordan",
+          "text": "Exactly what I needed right now.",
+          "date": "2026-06-01"
+        },
+        {
+          "id": 5,
+          "user": "Dev",
+          "text": "Well written and easy to follow.",
+          "date": "2026-06-01"
+        }
+      ]
+    },
+    {
+      "id": 89,
+      "title": "Top 10 hidden beaches in Goa",
+      "slug": "top-10-hidden-beaches-in-goa",
+      "category": "Travel",
+      "excerpt": "A practical look at top 10 hidden beaches in goa, with tips you can apply right away.",
+      "content": "In this post, we take a closer look at top 10 hidden beaches in goa. Whether you're just starting out or looking to refine your approach, there's something here for you.\n\nWe'll walk through the key ideas, common mistakes to avoid, and practical steps you can take today. By the end, you should have a clearer picture of how to move forward.\n\nRemember, consistency matters more than perfection. Start small, stay curious, and build from there.",
+      "image": "https://picsum.photos/seed/top-10-hidden-beaches-in-goa/800/400",
+      "author": {
+        "id": 4,
+        "name": "Arjun Mehta",
+        "avatar": "https://i.pravatar.cc/100?img=4"
+      },
+      "date": "2026-05-11",
+      "readTime": "3 min read",
+      "tags": ["guide", "beginner", "health"],
+      "likes": 290,
+      "comments": [
+        {
+          "id": 1,
+          "user": "Riya",
+          "text": "I disagree with point 3, but overall good post.",
+          "date": "2026-06-01"
+        },
+        {
+          "id": 2,
+          "user": "Riya",
+          "text": "Do you have any references for this?",
+          "date": "2026-06-01"
+        },
+        {
+          "id": 3,
+          "user": "Riya",
+          "text": "Bookmarking this for later.",
+          "date": "2026-06-01"
+        },
+        {
+          "id": 4,
+          "user": "Jordan",
+          "text": "Do you have any references for this?",
+          "date": "2026-06-01"
+        }
+      ]
+    },
+    {
+      "id": 90,
+      "title": "Mountain treks for beginners",
+      "slug": "mountain-treks-for-beginners",
+      "category": "Travel",
+      "excerpt": "Simple, actionable advice on mountain treks for beginners for everyday life.",
+      "content": "In this post, we take a closer look at mountain treks for beginners. Whether you're just starting out or looking to refine your approach, there's something here for you.\n\nWe'll walk through the key ideas, common mistakes to avoid, and practical steps you can take today. By the end, you should have a clearer picture of how to move forward.\n\nRemember, consistency matters more than perfection. Start small, stay curious, and build from there.",
+      "image": "https://picsum.photos/seed/mountain-treks-for-beginners/800/400",
+      "author": {
+        "id": 5,
+        "name": "Sara Khan",
+        "avatar": "https://i.pravatar.cc/100?img=5"
+      },
+      "date": "2026-05-10",
+      "readTime": "2 min read",
+      "tags": ["business", "food", "travel"],
+      "likes": 200,
+      "comments": [
+        {
+          "id": 1,
+          "user": "Jordan",
+          "text": "Well written and easy to follow.",
+          "date": "2026-06-01"
+        },
+        {
+          "id": 2,
+          "user": "Alex",
+          "text": "Exactly what I needed right now.",
+          "date": "2026-06-01"
+        }
+      ]
+    },
+    {
+      "id": 91,
+      "title": "Spices every kitchen needs",
+      "slug": "spices-every-kitchen-needs",
+      "category": "Food",
+      "excerpt": "Exploring spices every kitchen needs and why it matters more than ever.",
+      "content": "In this post, we take a closer look at spices every kitchen needs. Whether you're just starting out or looking to refine your approach, there's something here for you.\n\nWe'll walk through the key ideas, common mistakes to avoid, and practical steps you can take today. By the end, you should have a clearer picture of how to move forward.\n\nRemember, consistency matters more than perfection. Start small, stay curious, and build from there.",
+      "image": "https://picsum.photos/seed/spices-every-kitchen-needs/800/400",
+      "author": {
+        "id": 1,
+        "name": "Maya Chen",
+        "avatar": "https://i.pravatar.cc/100?img=1"
+      },
+      "date": "2026-05-09",
+      "readTime": "2 min read",
+      "tags": ["tips", "react", "beginner"],
+      "likes": 160,
+      "comments": [
+        {
+          "id": 1,
+          "user": "Dev",
+          "text": "Great read, learned something new today.",
+          "date": "2026-06-01"
+        },
+        {
+          "id": 2,
+          "user": "Sam",
+          "text": "Do you have any references for this?",
+          "date": "2026-06-01"
+        },
+        {
+          "id": 3,
+          "user": "Alex",
+          "text": "Bookmarking this for later.",
+          "date": "2026-06-01"
+        },
+        {
+          "id": 4,
+          "user": "Sam",
+          "text": "Great read, learned something new today.",
+          "date": "2026-06-01"
+        },
+        {
+          "id": 5,
+          "user": "Omar",
+          "text": "Exactly what I needed right now.",
+          "date": "2026-06-01"
+        }
+      ]
+    },
+    {
+      "id": 92,
+      "title": "A guide to brewing coffee at home",
+      "slug": "a-guide-to-brewing-coffee-at-home",
+      "category": "Food",
+      "excerpt": "A beginner-friendly guide to a guide to brewing coffee at home that covers the essentials.",
+      "content": "In this post, we take a closer look at a guide to brewing coffee at home. Whether you're just starting out or looking to refine your approach, there's something here for you.\n\nWe'll walk through the key ideas, common mistakes to avoid, and practical steps you can take today. By the end, you should have a clearer picture of how to move forward.\n\nRemember, consistency matters more than perfection. Start small, stay curious, and build from there.",
+      "image": "https://picsum.photos/seed/a-guide-to-brewing-coffee-at-home/800/400",
+      "author": {
+        "id": 2,
+        "name": "Rohan Das",
+        "avatar": "https://i.pravatar.cc/100?img=2"
+      },
+      "date": "2026-05-08",
+      "readTime": "7 min read",
+      "tags": ["lifestyle", "productivity", "health"],
+      "likes": 84,
+      "comments": [
+        {
+          "id": 1,
+          "user": "Jordan",
+          "text": "Great read, learned something new today.",
+          "date": "2026-06-01"
+        },
+        {
+          "id": 2,
+          "user": "Sam",
+          "text": "I disagree with point 3, but overall good post.",
+          "date": "2026-06-01"
+        },
+        {
+          "id": 3,
+          "user": "Nina",
+          "text": "Do you have any references for this?",
+          "date": "2026-06-01"
+        }
+      ]
+    },
+    {
+      "id": 93,
+      "title": "Summer salad recipes to try",
+      "slug": "summer-salad-recipes-to-try",
+      "category": "Food",
+      "excerpt": "Everything you need to know about summer salad recipes to try in one place.",
+      "content": "In this post, we take a closer look at summer salad recipes to try. Whether you're just starting out or looking to refine your approach, there's something here for you.\n\nWe'll walk through the key ideas, common mistakes to avoid, and practical steps you can take today. By the end, you should have a clearer picture of how to move forward.\n\nRemember, consistency matters more than perfection. Start small, stay curious, and build from there.",
+      "image": "https://picsum.photos/seed/summer-salad-recipes-to-try/800/400",
+      "author": {
+        "id": 3,
+        "name": "Priya Nair",
+        "avatar": "https://i.pravatar.cc/100?img=3"
+      },
+      "date": "2026-05-07",
+      "readTime": "5 min read",
+      "tags": ["business", "guide", "food"],
+      "likes": 55,
+      "comments": [
+        {
+          "id": 1,
+          "user": "Jordan",
+          "text": "Do you have any references for this?",
+          "date": "2026-06-01"
+        },
+        {
+          "id": 2,
+          "user": "Nina",
+          "text": "Exactly what I needed right now.",
+          "date": "2026-06-01"
+        },
+        {
+          "id": 3,
+          "user": "Alex",
+          "text": "Bookmarking this for later.",
+          "date": "2026-06-01"
+        }
+      ]
+    },
+    {
+      "id": 94,
+      "title": "Designing for accessibility",
+      "slug": "designing-for-accessibility",
+      "category": "Design",
+      "excerpt": "Simple, actionable advice on designing for accessibility for everyday life.",
+      "content": "In this post, we take a closer look at designing for accessibility. Whether you're just starting out or looking to refine your approach, there's something here for you.\n\nWe'll walk through the key ideas, common mistakes to avoid, and practical steps you can take today. By the end, you should have a clearer picture of how to move forward.\n\nRemember, consistency matters more than perfection. Start small, stay curious, and build from there.",
+      "image": "https://picsum.photos/seed/designing-for-accessibility/800/400",
+      "author": {
+        "id": 4,
+        "name": "Arjun Mehta",
+        "avatar": "https://i.pravatar.cc/100?img=4"
+      },
+      "date": "2026-05-06",
+      "readTime": "2 min read",
+      "tags": ["react", "food", "guide"],
+      "likes": 69,
+      "comments": [
+        {
+          "id": 1,
+          "user": "Dev",
+          "text": "Bookmarking this for later.",
+          "date": "2026-06-01"
+        },
+        {
+          "id": 2,
+          "user": "Alex",
+          "text": "Well written and easy to follow.",
+          "date": "2026-06-01"
+        },
+        {
+          "id": 3,
+          "user": "Riya",
+          "text": "Can you do a follow-up on this topic?",
+          "date": "2026-06-01"
+        },
+        {
+          "id": 4,
+          "user": "Jordan",
+          "text": "Do you have any references for this?",
+          "date": "2026-06-01"
+        },
+        {
+          "id": 5,
+          "user": "Jordan",
+          "text": "Can you do a follow-up on this topic?",
+          "date": "2026-06-01"
+        }
+      ]
+    },
+    {
+      "id": 95,
+      "title": "Backpacking through Europe on a budget",
+      "slug": "backpacking-through-europe-on-a-budget",
+      "category": "Travel",
+      "excerpt": "A beginner-friendly guide to backpacking through europe on a budget that covers the essentials.",
+      "content": "In this post, we take a closer look at backpacking through europe on a budget. Whether you're just starting out or looking to refine your approach, there's something here for you.\n\nWe'll walk through the key ideas, common mistakes to avoid, and practical steps you can take today. By the end, you should have a clearer picture of how to move forward.\n\nRemember, consistency matters more than perfection. Start small, stay curious, and build from there.",
+      "image": "https://picsum.photos/seed/backpacking-through-europe-on-a-budget/800/400",
+      "author": {
+        "id": 5,
+        "name": "Sara Khan",
+        "avatar": "https://i.pravatar.cc/100?img=5"
+      },
+      "date": "2026-05-05",
+      "readTime": "8 min read",
+      "tags": ["tips", "lifestyle", "productivity"],
+      "likes": 133,
+      "comments": [
+        {
+          "id": 1,
+          "user": "Sam",
+          "text": "Great read, learned something new today.",
+          "date": "2026-06-01"
+        },
+        {
+          "id": 2,
+          "user": "Sam",
+          "text": "Can you do a follow-up on this topic?",
+          "date": "2026-06-01"
+        },
+        {
+          "id": 3,
+          "user": "Sam",
+          "text": "Bookmarking this for later.",
+          "date": "2026-06-01"
+        },
+        {
+          "id": 4,
+          "user": "Taylor",
+          "text": "This was really helpful, thanks for sharing!",
+          "date": "2026-06-01"
+        }
+      ]
+    },
+    {
+      "id": 96,
+      "title": "Time management for entrepreneurs",
+      "slug": "time-management-for-entrepreneurs",
+      "category": "Business",
+      "excerpt": "Everything you need to know about time management for entrepreneurs in one place.",
+      "content": "In this post, we take a closer look at time management for entrepreneurs. Whether you're just starting out or looking to refine your approach, there's something here for you.\n\nWe'll walk through the key ideas, common mistakes to avoid, and practical steps you can take today. By the end, you should have a clearer picture of how to move forward.\n\nRemember, consistency matters more than perfection. Start small, stay curious, and build from there.",
+      "image": "https://picsum.photos/seed/time-management-for-entrepreneurs/800/400",
+      "author": {
+        "id": 1,
+        "name": "Maya Chen",
+        "avatar": "https://i.pravatar.cc/100?img=1"
+      },
+      "date": "2026-05-04",
+      "readTime": "2 min read",
+      "tags": ["food", "guide", "tutorial"],
+      "likes": 170,
+      "comments": [
+        {
+          "id": 1,
+          "user": "Jordan",
+          "text": "This was really helpful, thanks for sharing!",
+          "date": "2026-06-01"
+        }
+      ]
+    },
+    {
+      "id": 97,
+      "title": "Effective study techniques for students (part 2)",
+      "slug": "effective-study-techniques-for-students-(part-2)",
+      "category": "Education",
+      "excerpt": "Everything you need to know about effective study techniques for students in one place.",
+      "content": "In this post, we take a closer look at effective study techniques for students. Whether you're just starting out or looking to refine your approach, there's something here for you.\n\nWe'll walk through the key ideas, common mistakes to avoid, and practical steps you can take today. By the end, you should have a clearer picture of how to move forward.\n\nRemember, consistency matters more than perfection. Start small, stay curious, and build from there.",
+      "image": "https://picsum.photos/seed/effective-study-techniques-for-students-(part-2)/800/400",
+      "author": {
+        "id": 2,
+        "name": "Rohan Das",
+        "avatar": "https://i.pravatar.cc/100?img=2"
+      },
+      "date": "2026-05-03",
+      "readTime": "4 min read",
+      "tags": ["react", "tips", "health"],
+      "likes": 274,
+      "comments": []
+    },
+    {
+      "id": 98,
+      "title": "Simple ways to reduce stress daily (part 2)",
+      "slug": "simple-ways-to-reduce-stress-daily-(part-2)",
+      "category": "Lifestyle",
+      "excerpt": "A practical look at simple ways to reduce stress daily, with tips you can apply right away.",
+      "content": "In this post, we take a closer look at simple ways to reduce stress daily. Whether you're just starting out or looking to refine your approach, there's something here for you.\n\nWe'll walk through the key ideas, common mistakes to avoid, and practical steps you can take today. By the end, you should have a clearer picture of how to move forward.\n\nRemember, consistency matters more than perfection. Start small, stay curious, and build from there.",
+      "image": "https://picsum.photos/seed/simple-ways-to-reduce-stress-daily-(part-2)/800/400",
+      "author": {
+        "id": 3,
+        "name": "Priya Nair",
+        "avatar": "https://i.pravatar.cc/100?img=3"
+      },
+      "date": "2026-05-02",
+      "readTime": "5 min read",
+      "tags": ["business", "food", "productivity"],
+      "likes": 60,
+      "comments": []
+    },
+    {
+      "id": 99,
+      "title": "Sleep hygiene tips for better rest (part 2)",
+      "slug": "sleep-hygiene-tips-for-better-rest-(part-2)",
+      "category": "Health",
+      "excerpt": "Exploring sleep hygiene tips for better rest and why it matters more than ever.",
+      "content": "In this post, we take a closer look at sleep hygiene tips for better rest. Whether you're just starting out or looking to refine your approach, there's something here for you.\n\nWe'll walk through the key ideas, common mistakes to avoid, and practical steps you can take today. By the end, you should have a clearer picture of how to move forward.\n\nRemember, consistency matters more than perfection. Start small, stay curious, and build from there.",
+      "image": "https://picsum.photos/seed/sleep-hygiene-tips-for-better-rest-(part-2)/800/400",
+      "author": {
+        "id": 4,
+        "name": "Arjun Mehta",
+        "avatar": "https://i.pravatar.cc/100?img=4"
+      },
+      "date": "2026-05-01",
+      "readTime": "8 min read",
+      "tags": ["health", "lifestyle", "design"],
+      "likes": 256,
+      "comments": [
+        {
+          "id": 1,
+          "user": "Sam",
+          "text": "This was really helpful, thanks for sharing!",
+          "date": "2026-06-01"
+        },
+        {
+          "id": 2,
+          "user": "Riya",
+          "text": "Do you have any references for this?",
+          "date": "2026-06-01"
+        },
+        {
+          "id": 3,
+          "user": "Alex",
+          "text": "This was really helpful, thanks for sharing!",
+          "date": "2026-06-01"
+        }
+      ]
+    },
+    {
+      "id": 100,
+      "title": "How to create a brand identity (part 2)",
+      "slug": "how-to-create-a-brand-identity-(part-2)",
+      "category": "Design",
+      "excerpt": "Simple, actionable advice on how to create a brand identity for everyday life.",
+      "content": "In this post, we take a closer look at how to create a brand identity. Whether you're just starting out or looking to refine your approach, there's something here for you.\n\nWe'll walk through the key ideas, common mistakes to avoid, and practical steps you can take today. By the end, you should have a clearer picture of how to move forward.\n\nRemember, consistency matters more than perfection. Start small, stay curious, and build from there.",
+      "image": "https://picsum.photos/seed/how-to-create-a-brand-identity-(part-2)/800/400",
+      "author": {
+        "id": 5,
+        "name": "Sara Khan",
+        "avatar": "https://i.pravatar.cc/100?img=5"
+      },
+      "date": "2026-05-01",
+      "readTime": "6 min read",
+      "tags": ["travel", "business", "productivity"],
+      "likes": 225,
+      "comments": [
+        {
+          "id": 1,
+          "user": "Omar",
+          "text": "Great read, learned something new today.",
+          "date": "2026-06-01"
+        },
+        {
+          "id": 2,
+          "user": "Jordan",
+          "text": "Bookmarking this for later.",
+          "date": "2026-06-01"
+        },
+        {
+          "id": 3,
+          "user": "Taylor",
+          "text": "Great read, learned something new today.",
+          "date": "2026-06-01"
+        },
+        {
+          "id": 4,
+          "user": "Taylor",
+          "text": "Exactly what I needed right now.",
+          "date": "2026-06-01"
+        },
+        {
+          "id": 5,
+          "user": "Dev",
+          "text": "Well written and easy to follow.",
+          "date": "2026-06-01"
+        }
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Design",
+      "slug": "design",
+      "count": 13
+    },
+    {
+      "id": 2,
+      "name": "Travel",
+      "slug": "travel",
+      "count": 12
+    },
+    {
+      "id": 3,
+      "name": "Food",
+      "slug": "food",
+      "count": 12
+    },
+    {
+      "id": 4,
+      "name": "Technology",
+      "slug": "technology",
+      "count": 12
+    },
+    {
+      "id": 5,
+      "name": "Lifestyle",
+      "slug": "lifestyle",
+      "count": 13
+    },
+    {
+      "id": 6,
+      "name": "Health",
+      "slug": "health",
+      "count": 13
+    },
+    {
+      "id": 7,
+      "name": "Business",
+      "slug": "business",
+      "count": 12
+    },
+    {
+      "id": 8,
+      "name": "Education",
+      "slug": "education",
+      "count": 13
+    }
+  ],
+  "authors": [
+    {
+      "id": 1,
+      "name": "Maya Chen",
+      "avatar": "https://i.pravatar.cc/100?img=1"
+    },
+    {
+      "id": 2,
+      "name": "Rohan Das",
+      "avatar": "https://i.pravatar.cc/100?img=2"
+    },
+    {
+      "id": 3,
+      "name": "Priya Nair",
+      "avatar": "https://i.pravatar.cc/100?img=3"
+    },
+    {
+      "id": 4,
+      "name": "Arjun Mehta",
+      "avatar": "https://i.pravatar.cc/100?img=4"
+    },
+    {
+      "id": 5,
+      "name": "Sara Khan",
+      "avatar": "https://i.pravatar.cc/100?img=5"
+    }
+  ]
+}
