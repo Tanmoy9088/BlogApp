@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+import { useEffect, useState } from "react";
 import { useParams } from "react-router-dom";
 import type { Post } from "../types/BlogData.type";
 import axios from "axios";
@@ -28,9 +28,7 @@ const BlogDetailsPage = () => {
   const blog = blogData.filter((b) => b.id === id);
   console.log("blog", blog);
 
-  // const blog = blogData.find((b) => b.id === id); // find matching post
-  // // console.log();
-
+  if (isLoading) return <p>Loading...</p>;
   if (!blogData) return <h2>Blog not found!</h2>;
 
   return (
@@ -55,45 +53,3 @@ const BlogDetailsPage = () => {
 };
 
 export default BlogDetailsPage;
-
-// import { useLocation, useNavigate, useParams } from "react-router-dom";
-// import type { Post } from "../types/BlogData.type";
-
-// const BlogDetailsPage = () => {
-//   const { state } = useLocation();
-//   const navigate = useNavigate();
-//   const post: Post | undefined = state?.post;
-
-//   // Fallback: if user refreshes or visits URL directly
-//   if (!post) {
-//     return (
-//       <div className="text-center pt-24">
-//         <p className="text-xl">
-//           Post not found. Please go back and click a post.
-//         </p>
-//         <button
-//           onClick={() => navigate("/")}
-//           className="mt-4 bg-blue-300 px-4 py-2 rounded-lg"
-//         >
-//           ← Back to Home
-//         </button>
-//       </div>
-//     );
-//   }
-
-//   return (
-//     <div className="p-10 max-w-3xl mx-auto">
-//       <button
-//         onClick={() => navigate(-1)}
-//         className="mb-6 bg-blue-300 px-4 py-2 rounded-lg"
-//       >
-//         ← Back
-//       </button>
-//       <h1 className="text-4xl font-bold mb-4">{post.title}</h1>
-//       <p className="text-gray-600 mb-2">{post.author}</p>
-//       <p className="text-lg leading-relaxed">{post.body}</p>
-//     </div>
-//   );
-// };
-
-// export default BlogDetailsPage;

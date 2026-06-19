@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import type { Post } from "../types/BlogData.type";
 import { useNavigate } from "react-router-dom";
 type PostProps = {
