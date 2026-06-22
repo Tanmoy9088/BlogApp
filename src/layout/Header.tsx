@@ -4,9 +4,9 @@ import { NavLink } from "react-router-dom";
 const Header = () => {
   return (
     <>
-      <nav className="flex fixed top-0 w-full gap-10 justify-start px-16 bg-black py-4 text-white">
+      <nav className="flex fixed top-0 w-full gap-10 justify-start px-16 bg-black py-4 text-white z-50">
         <NavLink
-          to="/home"
+          to="/"
           className={({ isActive, isPending }) =>
             isPending
               ? "pending"

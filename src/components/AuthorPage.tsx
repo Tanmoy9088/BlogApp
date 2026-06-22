@@ -32,7 +32,7 @@ const AuthorPage = () => {
     return (
       <div className="min-h-screen flex items-center justify-center">
         <div className="text-center space-y-3">
-          <div className="w-10 h-10 border-4 border-indigo-500 border-t-transparent rounded-full animate-spin mx-auto" />
+          <div className="w-10 h-10 border-4 border-zinc-800 border-t-transparent rounded-full animate-spin mx-auto" />
           <p className="text-gray-500 text-sm tracking-wide">
             Finding author...
           </p>
@@ -60,7 +60,7 @@ const AuthorPage = () => {
           </p>
           <button
             onClick={() => navigate("/")}
-            className="mt-6 bg-indigo-500 text-white px-5 py-2 rounded-lg text-sm hover:bg-indigo-600 transition"
+            className="mt-6 bg-zinc-800 text-white px-5 py-2 rounded-lg text-sm hover:bg-indigo-600 transition"
           >
             ← Back to Home
           </button>
@@ -75,114 +75,109 @@ const AuthorPage = () => {
   });
 
   return (
-    <div className="min-h-screen bg-gray-50">
-      {/* ── Hero Banner ── */}
-      <div className="bg-gradient-to-br from-indigo-600 via-purple-600 to-pink-500 h-48 relative" />
-
-      <div className="max-w-4xl mx-auto px-6 pb-16">
-        {/* ── Author Card ── */}
-        <div className="bg-white rounded-2xl shadow-md p-6 -mt-16 relative z-10 flex flex-col sm:flex-row gap-6 items-start sm:items-center">
-          {/* Avatar */}
+    <div className="min-h-screen bg-stone-50">
+      {/* Author Header */}
+      <section className="bg-white border-b border-stone-200">
+        <div className="max-w-4xl mx-auto px-6 py-16 text-center">
           <img
             src={user.profile_pic || user.avatar}
             alt={user.first_name}
-            className="w-24 h-24 rounded-full object-cover ring-4 ring-white shadow-lg shrink-0"
+            className="w-28 h-28 rounded-full mx-auto object-cover border border-stone-200"
           />
 
-          {/* Info */}
-          <div className="flex-1">
-            <div className="flex flex-wrap items-center gap-2">
-              <h1 className="text-2xl font-bold text-gray-900">
-                {user.first_name} {user.middle_name} {user.last_name}
-              </h1>
-              <span className="text-xs bg-indigo-100 text-indigo-600 px-2 py-0.5 rounded-full font-medium capitalize">
-                {user.role}
-              </span>
-            </div>
-            <p className="text-gray-400 text-sm mt-0.5">@{user.username}</p>
-            <p className="text-gray-500 text-sm mt-0.5">{user.email}</p>
-            <p className="text-gray-400 text-xs mt-2">
-              Member since {joinDate}
-            </p>
-          </div>
-        </div>
+          <h1 className="mt-6 text-4xl md:text-5xl font-serif font-bold text-stone-900">
+            {user.first_name} {user.middle_name} {user.last_name}
+          </h1>
 
-        {/* ── Back Button ── */}
+          <p className="mt-2 text-stone-500">@{user.username}</p>
+
+          <p className="mt-4 text-stone-600 max-w-2xl mx-auto leading-relaxed">
+            Writer and creator sharing thoughts about technology, programming,
+            innovation and everyday learning.
+          </p>
+
+          <p className="mt-4 text-sm text-stone-400">Member since {joinDate}</p>
+        </div>
+      </section>
+
+      {/* Main Content */}
+      <main className="max-w-4xl mx-auto px-6 py-10">
+        {/* Back Button */}
         <button
           onClick={() => navigate(-1)}
-          className="mt-6 text-sm text-indigo-500 hover:text-indigo-700 flex items-center gap-1 transition"
+          className="text-stone-600 hover:text-black transition"
         >
           ← Back
         </button>
 
-        {/* ── Posts Section ── */}
-        <h2 className="text-lg font-semibold text-gray-800 mt-6 mb-4">
-          All Posts
-          <span className="ml-2 text-sm font-normal text-gray-400">
-            ({allUserBlogs.length})
-          </span>
-        </h2>
+        {/* Posts Header */}
+        <div className="mt-10 border-b border-stone-200 pb-4">
+          <h2 className="text-3xl font-serif font-bold text-stone-900">
+            Articles
+          </h2>
 
-        {allUserBlogs.length === 0 ? (
-          <p className="text-center text-gray-400 py-16">
-            This author has no posts yet.
+          <p className="text-stone-500 mt-1">
+            {allUserBlogs.length} published posts
           </p>
-        ) : (
-          <div className="grid grid-cols-1 sm:grid-cols-2 gap-5">
-            {allUserBlogs.map((post) => (
-              <div
-                key={post.id}
-                className="bg-white rounded-2xl shadow-sm hover:shadow-md transition cursor-pointer overflow-hidden group"
-              >
-                {/* Thumbnail */}
-                <div className="overflow-hidden h-44">
-                  <img
-                    src={post.featured_image}
-                    alt={post.title}
-                    className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
-                  />
-                </div>
+        </div>
+
+        {/* Posts */}
+        <div className="divide-y divide-stone-200">
+          {allUserBlogs.map((post) => (
+            <article
+              key={post.id}
+              onClick={() => navigate(`/blog/${post.id}`)}
+              className="py-8 cursor-pointer hover:bg-stone-100/50 transition"
+            >
+              <div className="flex flex-col md:flex-row gap-6">
+                {/* Image */}
+                <img
+                  src={post.featured_image}
+                  alt={post.title}
+                  className="w-full md:w-52 h-40 object-cover rounded-md shrink-0"
+                />
 
                 {/* Content */}
-                <div className="p-4 space-y-2">
-                  {/* Category + Read time */}
-                  <div className="flex items-center justify-between">
-                    <span className="text-xs bg-purple-100 text-purple-600 px-2 py-0.5 rounded-full capitalize">
-                      {post.category}
-                    </span>
-                    <span className="text-xs text-gray-400">
-                      {post.readTime}
-                    </span>
-                  </div>
+                <div className="flex-1">
+                  <p className="text-xs uppercase tracking-widest text-stone-500">
+                    {post.category}
+                  </p>
 
-                  <h3 className="font-semibold text-gray-800 leading-snug line-clamp-2 group-hover:text-indigo-600 transition-colors">
+                  <h3 className="mt-2 text-2xl font-serif font-bold text-stone-900">
                     {post.title}
                   </h3>
 
-                  <p className="text-gray-500 text-sm line-clamp-2">
-                    {post.excerpt}
+                  <p className="mt-3 text-stone-600 line-clamp-3">
+                    {post.excerpt || post.subtitle}
                   </p>
 
-                  {/* Footer */}
-                  <div className="flex items-center justify-between pt-2 text-xs text-gray-400">
+                  <div className="mt-4 flex flex-wrap items-center gap-3 text-sm text-stone-500">
+                    <span>{post.readTime}</span>
+
+                    <span>•</span>
+
                     <span>
                       {new Date(post.created_at).toLocaleDateString("en-US", {
-                        month: "short",
+                        month: "long",
                         day: "numeric",
                         year: "numeric",
                       })}
                     </span>
-                    <div className="flex items-center gap-3">
-                      <span>❤️ {post.likes}</span>
-                      <span>💬 {post.comments?.length ?? 0}</span>
-                    </div>
+
+                    <span>•</span>
+
+                    <span>❤️ {post.likes}</span>
+
+                    <span>•</span>
+
+                    <span>💬 {post.comments?.length || 0}</span>
                   </div>
                 </div>
               </div>
-            ))}
-          </div>
-        )}
-      </div>
+            </article>
+          ))}
+        </div>
+      </main>
     </div>
   );
 };

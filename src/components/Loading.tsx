@@ -1,9 +1,7 @@
 // import React from 'react'
 
 const Loading = () => {
-  return (
-    <div className='text-center text-2xl'>Loading</div>
-  )
-}
+  return <div className="min-h-screen flex items-center"></div>;
+};
 
-export default Loading
+export default Loading;

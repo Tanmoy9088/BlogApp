@@ -55,7 +55,7 @@ const JokePage = () => {
   };
   if (loading)
     return (
-      <div className="pt-24 text-center">
+      <div className="min-h-screen flex flex-col justify-center items-center text-center">
         <p className="w-10 h-10 border-4 border-indigo-500 border-t-transparent rounded-full animate-spin mx-auto"></p>
         <p>Loading...</p>
       </div>

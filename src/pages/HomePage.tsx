@@ -1,15 +1,12 @@
 import { useState, useEffect } from "react";
 import BlogCard from "../components/BlogCard";
-// import blogData from "../Data/BlogData.json";
 import type { Post } from "../types/BlogData.type";
-// import Pagination from "./Pagination";
 import axios from "axios";
 const ITEMS_PER_PAGE = 3;
 
 const HomePage = () => {
-  // const postData: Post[] = blogData.posts;
   const [currentPage, setCurrentPage] = useState<number>(1);
-  // const [totalPages, setTotalPages] = useState(0);
+
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState("");
 
@@ -19,7 +16,6 @@ const HomePage = () => {
     const postCall = async () => {
       setLoading(true);
       try {
-        // const skip = (currentPage - 1) * ITEMS_PER_PAGE;
         const response = await axios.get(`https://jsonfakery.com/blogs`);
         console.log(response);
         const data = response.data;
@@ -33,8 +29,6 @@ const HomePage = () => {
     };
 
     postCall();
-
-    // console.log(postData);
   }, []);
   const start = (currentPage - 1) * ITEMS_PER_PAGE;
   const currentPosts = postData.slice(start, start + ITEMS_PER_PAGE);
@@ -45,9 +39,9 @@ const HomePage = () => {
 
   if (loading)
     return (
-      <div className="pt-24 text-center">
-        <p className="w-10 h-10 border-4 border-indigo-500 border-t-transparent rounded-full animate-spin mx-auto"></p>
-        <p>Loading...</p>
+      <div className="min-h-screen flex flex-col items-center justify-center">
+        <div className="w-12 h-12 border-4 border-zinc-800 border-t-transparent rounded-full animate-spin" />
+        <p className="mt-4 text-gray-600">Loading articles...</p>
       </div>
     );
 
@@ -55,53 +49,72 @@ const HomePage = () => {
   return (
     <>
       <div>
-        <div className="w-screen flex gap-4 justify-between p-10">
+        {/*Hero Sections */}
+        <section className="bg-[#F7F4ED] border-b">
+          <div className="max-w-7xl mx-auto px-6 py-24">
+            <h1 className="text-6xl font-serif text-black max-w-3xl">
+              Stay curious.
+            </h1>
+
+            <p className="mt-6 text-xl text-gray-700 max-w-xl">
+              Discover articles, tutorials, and stories from developers,
+              creators, and thinkers around the world.
+            </p>
+
+            <button className="mt-8 bg-black text-white px-6 py-3 rounded-full hover:bg-gray-800 transition">
+              Start Reading
+            </button>
+          </div>
+        </section>
+        {/*stats */}
+        <div className="max-w-7xl mx-auto px-6 py-6">
+          <div className="bg-white rounded-2xl shadow p-6 flex flex-wrap gap-8">
+            <div>
+              <p className="text-gray-500">Total Posts</p>
+              <p className="text-3xl font-bold">{totalPost}</p>
+            </div>
+
+            <div>
+              <p className="text-gray-500">Current Page</p>
+              <p className="text-3xl font-bold">{currentPage}</p>
+            </div>
+
+            <div>
+              <p className="text-gray-500">Pages</p>
+              <p className="text-3xl font-bold">{totalPages}</p>
+            </div>
+          </div>
+        </div>
+        <div className="flex justify-center items-center gap-4 py-10">
           <button
-            className="bg-blue-300 p-1 rounded-lg  disabled:bg-zinc-100"
-            // value={currentPage}
             onClick={() => setCurrentPage((prev) => prev - 1)}
             disabled={currentPage === 1}
+            className="px-5 py-2 rounded-xl bg-white border shadow hover:shadow-md disabled:opacity-50"
           >
-            Prev
+            ← Previous
           </button>
-          <p>{currentPage}</p>
+
+          <div className="px-4 py-2 bg-zinc-700 text-white rounded-xl">
+            {currentPage} / {totalPages}
+          </div>
+
           <button
-            className="bg-blue-300 p-1 rounded-lg disabled:bg-zinc-100"
-            // value={currentPage}
             onClick={() => setCurrentPage((prev) => prev + 1)}
             disabled={currentPage === totalPages}
+            className="px-5 py-2 rounded-xl bg-white border shadow hover:shadow-md disabled:opacity-50"
           >
-            Next
+            Next →
           </button>
         </div>
+        {/*Main content */}
         <div>
           {postData && !loading && (
-            <div className="w-full grid grid-rows-1 grid-cols-3 gap-1 justify-items-center p-4 overflow-auto">
+            <div className="w-full grid grid-rows-1 grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8 justify-items-center p-4 overflow-auto">
               {currentPosts.map((post) => (
                 <BlogCard key={post.id} post={post} />
               ))}
             </div>
           )}
-        </div>
-
-        <div className="flex gap-4 justify-between p-10">
-          <button
-            className="bg-blue-300 p-1 rounded-lg  disabled:bg-zinc-100"
-            // value={currentPage}
-            onClick={() => setCurrentPage((prev) => prev - 1)}
-            disabled={currentPage === 1}
-          >
-            Prev
-          </button>
-          <p>{currentPage}</p>
-          <button
-            className="bg-blue-300 p-1 rounded-lg disabled:bg-zinc-100"
-            // value={currentPage}
-            onClick={() => setCurrentPage((prev) => prev + 1)}
-            disabled={currentPage === totalPages}
-          >
-            Next
-          </button>
         </div>
       </div>
     </>

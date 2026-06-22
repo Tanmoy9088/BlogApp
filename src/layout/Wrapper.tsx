@@ -1,7 +1,7 @@
 // import React from "react";
 import Header from "./Header";
 import { Outlet } from "react-router-dom";
-// import Footer from "./Footer";
+import Footer from "./Footer";
 
 const Wrapper = () => {
   return (
@@ -12,7 +12,7 @@ const Wrapper = () => {
           <Outlet />
         </main>
 
-        {/* <Footer/> */}
+        <Footer />
       </div>
     </>
   );

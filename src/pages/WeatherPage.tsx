@@ -49,7 +49,7 @@ const WeatherDataFetch = () => {
       } finally {
         setLoading(false);
       }
-    }, 500);
+    }, 1000);
 
     return () => clearTimeout(timer);
   }, [search]);
@@ -68,14 +68,14 @@ const WeatherDataFetch = () => {
     : [];
   if (loading)
     return (
-      <div className="pt-24 text-center">
+      <div className="min-h-screen flex justify-center items-center text-center">
         <p className="w-10 h-10 border-4 border-indigo-500 border-t-transparent rounded-full animate-spin mx-auto"></p>
         <p>Loading...</p>
       </div>
     );
 
   return (
-    <div className="max-w-sm mx-auto p-4 font-sans">
+    <div className="max-w-sm min-h-screen mx-auto p-4 font-sans">
       {/* Search input*/}
       <input
         className="w-full border rounded-lg px-3 py-2 text-sm mb-4 outline-none focus:ring-1 focus:ring-gray-300"

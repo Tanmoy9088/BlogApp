@@ -21,7 +21,7 @@ export const router = createBrowserRouter([
     children: [
      
       {
-        path: "home",
+        path: "",
         element: withSuspense(HomePage), //lazy loaded
         errorElement: <ErrorBoundary />,
       },

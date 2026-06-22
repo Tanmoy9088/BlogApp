@@ -1,57 +1,97 @@
-import { useState } from "react";
 import type { Post } from "../types/BlogData.type";
 import { useNavigate } from "react-router-dom";
+
 type PostProps = {
   post: Post;
-  //   handleClick: () => void;
-  //   clicked: boolean;
 };
+
 const BlogCard = ({ post }: PostProps) => {
-  const [clicked, setclicked] = useState<boolean>(false);
-  const handleClick = () => {
-    console.log("click");
-    setclicked((prev) => !prev);
-  };
   const navigate = useNavigate();
+
   return (
-    <>
-      <div className="max-w-[500px] mb-4 border-2 rounded-xl">
+    <article
+      className="
+        bg-white
+        rounded-2xl
+        overflow-hidden
+        shadow-md
+        hover:shadow-2xl
+        hover:-translate-y-2
+        transition-all
+        duration-300
+      "
+    >
+      {/* Image */}
+      <div className="overflow-hidden">
         <img
           src={post.featured_image}
           alt={post.title}
-          className="h-[250px] w-[500px] rounded-t-xl py-1 px-1 "
+          className="
+            w-full
+            h-60
+            object-cover
+            hover:scale-105
+            transition-transform
+            duration-500
+          "
         />
-        <div className="p-2">
-          {" "}
-          <p className="bg-emerald-100 w-fit px-2 py-1 rounded-xl">
-            {post.category}
-          </p>
-          <h1 className="text-xl font-semibold pb-2">{post.title}</h1>
-          <p className={`${clicked ? "hidden" : "block"}`}>{post.subtitle}</p>
-          <div
-            className={`${clicked ? "block" : "hidden"}`}
-            dangerouslySetInnerHTML={{ __html: post.main_content }}
+      </div>
+
+      {/* Content */}
+      <div className="p-5">
+        {/* Category */}
+        <span className="inline-block bg-indigo-100 text-zinc-700 text-sm px-3 py-1 rounded-full font-medium">
+          {post.category}
+        </span>
+
+        {/* Title */}
+        <h2 className="mt-4 text-2xl font-bold text-gray-800 line-clamp-2">
+          {post.title}
+        </h2>
+
+        {/* Subtitle */}
+        <p className="mt-3 text-gray-600 line-clamp-3">{post.subtitle}</p>
+
+        {/* Author */}
+        <div className="mt-6 flex items-center gap-3" onClick={()=>navigate(`/user/${post.user_id}`)}>
+          <img
+            src={post.user.avatar}
+            alt={post.user.last_name}
+            className="w-10 h-10 rounded-full object-cover border-2"
           />
-          <div className={`flex flex-wrap gap-2 font-thin pt-2`}>
-            <img src={post.user.avatar} className="h-8 w-8 rounded-full" />
-            <p className="">{post.user.name} •</p>
-            <p>{post.created_at} •</p>
-            <p>{post.readTime}</p>
-            <button
-              onClick={handleClick}
-              className="bg-blue-400 rounded-2xl px-2 py-1"
-            >
-              {clicked ? "back" : "read more..."}
-            </button>
-            <button
-              onClick={() => navigate(`/blog/${post.id}`, { state: { post } })}
-            >
-              Read More
-            </button>
+
+          <div>
+            <p className="font-medium text-gray-800"> {post.user.first_name} {post.user.middle_name} {post.user.last_name}</p>
+
+            <p className="text-sm text-gray-500">
+              {post.created_at} • {post.readTime}
+            </p>
           </div>
         </div>
+
+        {/* Button */}
+        <button
+          onClick={() =>
+            navigate(`/blog/${post.id}`, {
+              state: { post },
+            })
+          }
+          className="
+            mt-6
+            w-full
+            bg-zinc-900
+            text-white
+            py-3
+            rounded-xl
+            hover:bg-indigo-700
+            transition
+            font-medium
+          "
+        >
+          Read Article →
+        </button>
       </div>
-    </>
+    </article>
   );
 };
 
