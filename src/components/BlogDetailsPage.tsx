@@ -30,7 +30,13 @@ const BlogDetailsPage = () => {
   const blog = blogData.filter((b) => b.id === id);
   console.log("blog", blog);
 
-  if (isLoading) return <p>Loading...</p>;
+  if (isLoading)
+    return (
+      <div className="min-h-screen flex flex-col items-center justify-center">
+        <div className="w-12 h-12 border-4 border-zinc-800 border-t-transparent rounded-full animate-spin" />
+        <p className="mt-4 text-gray-600">Loading articles...</p>
+      </div>
+    );
   if (isError) return <p>Error</p>;
   if (!blogData) return <h2>Blog not found!</h2>;
 
@@ -73,7 +79,8 @@ const BlogDetailsPage = () => {
 
                 <div>
                   <p className="font-semibold">
-                    {blog.user.first_name} {blog.user.middle_name} {blog.user.last_name}
+                    {blog.user.first_name} {blog.user.middle_name}{" "}
+                    {blog.user.last_name}
                   </p>
 
                   <p className="text-gray-500 text-sm">
