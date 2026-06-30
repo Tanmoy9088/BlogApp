@@ -1,5 +1,5 @@
 import { createBrowserRouter } from "react-router-dom";
-import { lazy} from "react";
+import { lazy } from "react";
 import Wrapper from "../layout/Wrapper";
 // import LoginPage from "../components/LoginPage";
 import ErrorBoundary from "../components/ErrorBoundary";
@@ -19,7 +19,6 @@ export const router = createBrowserRouter([
     path: "/",
     element: <Wrapper />,
     children: [
-     
       {
         path: "",
         element: withSuspense(HomePage), //lazy loaded
@@ -38,11 +37,6 @@ export const router = createBrowserRouter([
       {
         path: "blog/:id",
         element: withSuspense(BlogDetailsPage),
-        errorElement: <ErrorBoundary />,
-      },
-      {
-        path: "joke",
-        element: withSuspense(JokePage),
         errorElement: <ErrorBoundary />,
       },
       {

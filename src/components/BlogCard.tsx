@@ -53,7 +53,10 @@ const BlogCard = ({ post }: PostProps) => {
         <p className="mt-3 text-gray-600 line-clamp-3">{post.subtitle}</p>
 
         {/* Author */}
-        <div className="mt-6 flex items-center gap-3" onClick={()=>navigate(`/user/${post.user_id}`)}>
+        <div
+          className="mt-6 flex items-center gap-3"
+          onClick={() => navigate(`/user/${post.user_id}`)}
+        >
           <img
             src={post.user.avatar}
             alt={post.user.last_name}
@@ -61,7 +64,11 @@ const BlogCard = ({ post }: PostProps) => {
           />
 
           <div>
-            <p className="font-medium text-gray-800"> {post.user.first_name} {post.user.middle_name} {post.user.last_name}</p>
+            <p className="font-medium text-gray-800">
+              {" "}
+              {post.user.first_name} {post.user.middle_name}{" "}
+              {post.user.last_name}
+            </p>
 
             <p className="text-sm text-gray-500">
               {post.created_at} • {post.readTime}
@@ -77,15 +84,7 @@ const BlogCard = ({ post }: PostProps) => {
             })
           }
           className="
-            mt-6
-            w-full
-            bg-zinc-900
-            text-white
-            py-3
-            rounded-xl
-            hover:bg-indigo-700
-            transition
-            font-medium
+            mt-6 w-full bg-zinc-900 text-white py-3 rounded-xl hover:bg-indigo-700 transition font-medium
           "
         >
           Read Article →

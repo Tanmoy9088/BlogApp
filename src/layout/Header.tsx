@@ -31,9 +31,9 @@ const Header = () => {
             Blog
           </NavLink>
 
-          <div className="absolute left-0 hidden group-hover:block top-full w-32 px-2 py-2 border z-50 bg-black">
-            <div className="flex flex-col">
-              {" "}
+          <div className="absolute left-0 hidden group-hover:block top-full pt-3 z-50">
+            <div className="flex flex-col text-center w-40 px-2 py-1 rounded-md border bg-black border-[#FFAE5B]">
+            
               <NavLink
                 to="/blog/:id"
                 className={({ isActive, isPending }) =>

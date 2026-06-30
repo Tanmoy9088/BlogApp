@@ -38,6 +38,7 @@ const WeatherDataFetch = () => {
           },
         );
         const weatherData = res.data;
+        console.log(res.data)
         setWeather(weatherData);
       } catch (err: any) {
         setError(
@@ -66,13 +67,13 @@ const WeatherDataFetch = () => {
         { label: "Cloud cover", value: `${weather.clouds?.all ?? "—"}%` },
       ]
     : [];
-  if (loading)
-    return (
-      <div className="min-h-screen flex justify-center items-center text-center">
-        <p className="w-10 h-10 border-4 border-indigo-500 border-t-transparent rounded-full animate-spin mx-auto"></p>
-        <p>Loading...</p>
-      </div>
-    );
+  // if (loading)
+  //   return (
+  //     <div className="min-h-screen flex justify-center items-center text-center">
+  //       <p className="w-10 h-10 border-4 border-indigo-500 border-t-transparent rounded-full animate-spin mx-auto"></p>
+  //       <p>Loading...</p>
+  //     </div>
+  //   );
 
   return (
     <div className="max-w-sm min-h-screen mx-auto p-4 font-sans">
@@ -92,12 +93,17 @@ const WeatherDataFetch = () => {
         </div>
       )}
 
-      {/* Card */}
-      {weather && !loading && (
+      {/* Card */}{/*Loading and !Loading condition*/}
+      {loading ? (
+        <div className="min-h-screen flex justify-center items-center text-center">
+          <p className="w-10 h-10 border-4 border-indigo-500 border-t-transparent rounded-full animate-spin mx-auto"></p>
+          <p>Loading...</p>
+        </div>
+      ) : !loading && weather ? (
         <div className="border rounded-xl p-4">
           {/* City + temp */}
           <div className="mb-4">
-            <p className="text-lg font-medium">{weather.name}</p>
+            <p className="text-lg font-medium">{weather?.name}</p>
             <p className="text-4xl font-semibold mt-1">
               {Math.round(weather.main.temp)}°C
             </p>
@@ -117,6 +123,8 @@ const WeatherDataFetch = () => {
             ))}
           </div>
         </div>
+      ) : (
+        ""
       )}
     </div>
   );
