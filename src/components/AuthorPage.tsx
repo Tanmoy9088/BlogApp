@@ -8,6 +8,7 @@ const AuthorPage = () => {
   const [isError, setIsError] = useState("");
   const [blogData, setBlogData] = useState<Post[]>([]);
   const { userId } = useParams();
+  // console.log(userId)
   const navigate = useNavigate();
 
   useEffect(() => {
